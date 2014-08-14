@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlights:       true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            HicksCTE
+tagline:          'Business, Marketing, Technology'
+class:			  
+description:      'A template for HicksCTE classroom discussions, activities.'
+url:              http://hickscte.github.io/
+
+# Help
+email:			  chicks@alpinedistrict.org
+slack:
+
+author:
+  name:           'Caleb Hicks'
+  url:            https://hickscte.com
+
+paginate:         1
+
+# Custom vars
+version:          .01
+
+github:
+  repo:           https://github.com/HicksCTE/base
