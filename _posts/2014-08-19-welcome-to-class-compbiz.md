@@ -16,6 +16,7 @@ standards:
 ### Class Outline
 
 * Introduction to Class
+* [Teen Entrepreneurs Word Presentation](https://docs.google.com/a/alpinedistrict.org/presentation/d/1k-q6DFJOtPWGwU2AIS5eQcXvK49m2Axv7imam_VpPN0/edit#slide=id.p)
 * Disclosure Document
 * [Interest Survey](https://docs.google.com/a/alpinedistrict.org/forms/d/1lhAE30IivP3QwkiffBaGnrRUJDZmEMBGCbhtwPN8z6k/viewform)
 
