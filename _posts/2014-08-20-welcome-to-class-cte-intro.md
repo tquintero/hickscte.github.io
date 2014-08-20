@@ -18,16 +18,20 @@ standards:
 
 * Introduction to Class
 * Seating Chart
-* [Logging In](https://docs.google.com/a/alpinedistrict.org/file/d/0B8d7qFdFXJiOYnBKcjkxaU0yejA/edit)
+* [Logging In](https://docs.google.com/a/alpinedistrict.org/file/d/0B8d7qFdFXJiOYnBKcjkxaU0yejA/edit) [^video]
 * [Changing Password](http://isim.alpinedistrict.org)
 * Google Accounts (Email, Drive, Classroom) [^b1]
-* Daily Schedule [^b2]
+* Daily Schedule [^b2] [^b3] [^b4]
 * Make Binders
 * Disclosure Document
 * [Interest Survey](https://docs.google.com/a/alpinedistrict.org/forms/d/1lhAE30IivP3QwkiffBaGnrRUJDZmEMBGCbhtwPN8z6k/viewform)
 
+[^video]: [Watch video instructions](https://www.dropbox.com/s/2uxbsotzvgtltex/isim%20change%20password.mp4)
+
 [^b1]: B1 Start Here
 [^b2]: B2 Start Here
+[^b3]: B3 Start Here
+[^b4]: B4 Start Here
 
 
 ### Introduction to Class
