@@ -40,6 +40,45 @@ CTE Intro is a year long course designed to help students explore careers, use t
 
 You'll learn a lot about me throughout the term. But here's a quick look at some things that are important to me.
 
+### Seating Chart
+
+I know we don't like seating charts. But we have one so I can learn your names better. We'll set it up during class.
+
+### Logging In
+
+Your login will be the same for the following services:
+
+* Active Directory (school computers)
+* Skyward
+* Google
+
+Your username is your Skyward username. It has the following format:
+
+* First five letters of your last name
+* First three letters of your first name
+* Three digits, usually 000
+
+If your name were Jack Johnson, your username would be: johnsjac000 (or potentially johnsjac001, 002, 003, or higher).
+
+If you don't know your Skyward ID, ask me and I can look it up.
+
+### Google Accounts
+
+We will use your school Google account almost every day of class. We will use it for Gmail, Classroom, Drive, and storage.
+
+Log in using your newly reset password.
+
+### Daily Schedule
+
+Every day we will follow a similar schedule. Here it is:
+
+* Log in to your computer
+* Load HicksCTE.com
+* Complete the Career Summary
+* Class discussion
+* Activity
+* Exit Survey
+
 ### Grading Procedures
 
 All grades are based on a 3 point scale.
