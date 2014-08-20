@@ -4,6 +4,7 @@ title: Welcome to CTE Introduction to Business
 standards:
   - name: 'I know a little more about Mr. Hicks and my classmates.'
   - name: 'I can tell you what CTE Intro is all about, and what the four rotations are.'
+  - name: 'I can log in to the computer and my school Gmail account.'
   - name: 'I will tell my parents/guardians all about this class.'
 ---
 
@@ -18,6 +19,7 @@ standards:
 * Introduction to Class
 * Seating Chart
 * [Logging In](https://docs.google.com/a/alpinedistrict.org/file/d/0B8d7qFdFXJiOYnBKcjkxaU0yejA/edit)
+* [Changing Password](http://isim.alpinedistrict.org)
 * Google Accounts (Email, Drive, Classroom)
 * Daily Schedule
 * Disclosure Document
