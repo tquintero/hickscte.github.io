@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teen Entrepreneurship - Getting Set Up'
+title: 'Teen Entrepreneurship: Getting Set Up'
 standards:
   - name: 'I can log in to the computer, Gmail, and Skyward'
   - name: 'I can explain the different types of business ownership: sole-proprietor, partnership, and corporation'
