@@ -1,0 +1,20 @@
+---
+layout: default
+title: Circuits
+---
+
+<div class="posts">
+  {% for circuit in site.data.circuits %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ circuit.url }}">
+        Circuit #{{ circuit.number }} - {{ circuit.keys }}
+      </a>
+    </h1>
+
+    <center><video controls="controls" height="480" width="640">
+    <source src="url:{{ circuit.url }}" type="video/mp4"></source>
+    </video></center>
+  </div>
+  {% endfor %}
+</div>
