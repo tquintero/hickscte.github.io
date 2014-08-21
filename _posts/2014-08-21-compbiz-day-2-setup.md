@@ -47,13 +47,13 @@ Analysts predict Facebook will continue to focus on mobile advertising, business
 
 ### Glossary
 
-*Profit*:
-*Non-profit*:
-*Sole proprietor*:
-*Partnership*:
-*Corporation*:
-*LLC*:
-*Scarcity*:
-*Demand*:
-*Supply*:
-*Opportunity Cost*:
+* *Profit*: 
+* *Non-profit*: 
+* *Sole proprietor*: 
+* *Partnership*: 
+* *Corporation*: 
+* *LLC*: 
+* *Scarcity*: 
+* *Demand*: 
+* *Supply*: 
+* *Opportunity Cost*: 
