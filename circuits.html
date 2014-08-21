@@ -4,9 +4,17 @@ title: Circuits
 ---
 
 <div class="posts">
+  <ul>
+    {% for circuit in site.data.circuits %}
+    <li><a href="#c{{ circuit.number }}">Circuit #{{ circuit.number }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="posts">
   {% for circuit in site.data.circuits %}
   <div class="post">
-    <h1 class="post-title">
+    <h1 class="post-title"><a name="c{{ circuit.number }}">
       <a href="{{ circuit.url }}">
         Circuit #{{ circuit.number }} - {{ circuit.keys }}
       </a>
