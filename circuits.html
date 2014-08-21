@@ -3,26 +3,13 @@ layout: default
 title: Circuits
 ---
 
-<div class="posts">
-  <select id="picker">
-    <option value="">Pick a Circuit</option>
-    <option value="/#c{{ circuit.number }}">x</option>
-  </select>
-
-  <script>
-      document.getElementById("picker").onchange = function() {
-          if (this.selectedIndex!==0) {
-              window.location.href = this.value;
-          }        
-      };
-  </script>
-
+<!-- <div class="posts">
   <ul>
     {% for circuit in site.data.circuits %}
     <li><a href="#c{{ circuit.number }}">Circuit #{{ circuit.number }}</a></li>
     {% endfor %}
   </ul>
-</div>
+</div> -->
 
 <div class="posts">
   {% for circuit in site.data.circuits %}
