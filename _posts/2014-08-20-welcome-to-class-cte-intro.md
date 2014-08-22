@@ -5,7 +5,6 @@ standards:
   - name: 'I know a little more about Mr. Hicks and my classmates.'
   - name: 'I can tell you what CTE Intro is all about, and what the four rotations are.'
   - name: 'I can log in to the computer and my school Gmail account.'
-  - name: 'I will tell my parents/guardians all about this class.'
 ---
 
 <div class="message">
@@ -46,7 +45,7 @@ You'll learn a lot about me throughout the term. But here's a quick look at some
 
 ### Seating Chart
 
-I know we don't like seating charts. But we have one so I can learn your names better. We'll set it up during class.
+I know we don't like seating charts. But we have one so I can learn your names better. We'll set it up during class alphabetically by last name.
 
 ### Logging In
 
