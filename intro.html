@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro
+title: Circuits
 ---
 
 <!-- <div class="posts">
@@ -12,12 +12,10 @@ title: Intro
 </div> -->
 
 <div class="posts">
-  {% for day in site.data.term %}
+  {% for class in site.data.term %}
   <div class="post">
-    <h1 class="post-title"><a name="c{{ circuit.number }}">
-      <a href="{{ circuit.url }}">
-        Day #{{ day.class }} - {{ day.topic }}
-      </a>
+    <h1 class="post-title"><a name="{{ class.number }}">
+        Class #{{ class.class }} - {{ day.topic }}
     </h1>
 
     <center><video controls="controls" height="auto" width="100%" max-width="640">
