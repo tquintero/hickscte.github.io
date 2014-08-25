@@ -7,9 +7,9 @@ standards:
   - name: 'I can brainstorm quick ways to solve problems and make money with partners'
 ---
 
-<p class="message">There is a great opportunity to get an advanced experience with starting your own business next week. It's called Startup Weekend. People come together in teams and build a business in one weekend. It's a *great* experience. Thursday from 6:30-11:30PM. Friday 9:00am - 11:30pm. Saturday 9:00am - 9:00pm.
+<p class="message">There is a great opportunity to get an advanced experience with starting your own business next week. It's called Startup Weekend. People come together in teams and build a business in one weekend. It's a *great* experience. Thursday from 6:30-11:30PM. Friday 9:00am - 11:30pm. Saturday 9:00am - 9:00pm.</p>
 
-I've sent out an e-mail to parents with more details. If you want to attend this event for FREE, come talk to me.</p>
+<p class="message">I've sent out an e-mail to parents with more details. If you want to attend this event for FREE, come talk to me.</p>
 
 ### Class Outline
 
