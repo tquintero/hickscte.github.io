@@ -1,0 +1,28 @@
+---
+layout: default
+title: Circuits
+---
+
+<!-- <div class="posts">
+  <ul>
+    {% for circuit in site.data.circuits %}
+    <li><a href="#c{{ circuit.number }}">Circuit #{{ circuit.number }}</a></li>
+    {% endfor %}
+  </ul>
+</div> -->
+
+<div class="posts">
+  {% for day in site.data.term %}
+  <div class="post">
+    <h1 class="post-title"><a name="c{{ circuit.number }}">
+      <a href="{{ circuit.url }}">
+        Day #{{ day.class }} - {{ day.topic }}
+      </a>
+    </h1>
+
+    <center><video controls="controls" height="auto" width="100%" max-width="640">
+    <source src="{{ circuit.url }}" type="video/mp4"></source>
+    </video></center>
+  </div>
+  {% endfor %}
+</div>
