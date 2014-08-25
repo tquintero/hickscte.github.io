@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Circuits
+title: CTE Intro
 ---
 
 <!-- <div class="posts">
@@ -12,15 +12,11 @@ title: Circuits
 </div> -->
 
 <div class="posts">
-  {% for class in site.data.term %}
+  {% for class in site.data.classes %}
   <div class="post">
     <h1 class="post-title"><a name="{{ class.number }}">
         Class #{{ class.class }} - {{ day.topic }}
     </h1>
-
-    <center><video controls="controls" height="auto" width="100%" max-width="640">
-    <source src="{{ circuit.url }}" type="video/mp4"></source>
-    </video></center>
   </div>
   {% endfor %}
 </div>
