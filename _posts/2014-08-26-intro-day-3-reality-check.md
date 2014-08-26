@@ -16,23 +16,23 @@ standards:
 
 Close your eyes and we're going to travel into your future. Today you get the opportunity to design your own future, create a future you can work towards.
 
-	>Today you begin to realize how much fun seventh grade can really be. At lunch 	you meet a new person. He/she turns out to be a really good friend. What does 	this person look like?
+>Today you begin to realize how much fun seventh grade can really be. At lunch 	you meet a new person. He/she turns out to be a really good friend. What does this person look like?
 
-	>You receive your first seventh grade report card. All your grades are As and Bs. How do you feel? What do your parents say?
-	
-	>Winter comes. It is really cold and the snow is deep in the mountains. How are you spending your time?
+>You receive your first seventh grade report card. All your grades are As and Bs. How do you feel? What do your parents say?
 
-	>Time passes quickly. Spring comes. Soon school is out for another year. What 	are you doing this summer? 
+>Winter comes. It is really cold and the snow is deep in the mountains. How are you spending your time?
 
-	>Eighth grade starts. What activities are you involved in? What type of classes are 	you taking? What are your grades like?
-	
-	>Before you know it, you are in ninth grade. You are now in high school!  You are  excited, but a little nervous too. You have made several new friends. Who are 	they? What do they like to do? Some of your classes take quite a bit of time, but  you still participate in school clubs and activities. Which ones are they?
+>Time passes quickly. Spring comes. Soon school is out for another year. What are you doing this summer? 
 
-	>Suddenly you turn 16. You can drive! You have a lot more freedom. What do you 	do for fun? Are you doing well in school? Do you have a job?
+>Eighth grade starts. What activities are you involved in? What type of classes are 	you taking? What are your grades like?
 
-	>You cannot believe it. You are actually attending your high school graduation! You never thought this day would come. Now what are you going to do? There are so many choices. Will you go to college or get a job? What will your friends do?
+>Before you know it, you are in ninth grade. You are now in high school!  You are  excited, but a little nervous too. You have made several new friends. Who are 	they? What do they like to do? Some of your classes take quite a bit of time, but  you still participate in school clubs and activities. Which ones are they?
 
-	>Time passes even more quickly. You are 25 (or 30) years old. People now treat you like an adult. What job do you have? How well does it pay? What kind of car do you drive? What does your house look like? Are you married or single? Do you have any children? What are your interests and hobbies?
+>Suddenly you turn 16. You can drive! You have a lot more freedom. What do you  do for fun? Are you doing well in school? Do you have a job?
+
+>You cannot believe it. You are actually attending your high school graduation! You never thought this day would come. Now what are you going to do? There are so many choices. Will you go to college or get a job? What will your friends do?
+
+>Time passes even more quickly. You are 25 (or 30) years old. People now treat you like an adult. What job do you have? How well does it pay? What kind of car do you drive? What does your house look like? Are you married or single? Do you have any children? What are your interests and hobbies?
 
 Fill out the dream log in your new binder.
 
