@@ -1,63 +1,72 @@
 - class: 1
   topic: Welcome and Orientation
-  career: None
-  career URL: null
   standards:
     - 'I know more about Mr. Hicks and my classmates'
     - 'I can tell you what CTE Intro is, and what the Business rotation will cover'
     - 'I can log in to the computer, Skyward, and my school Gmail account'
     - 'I will tell my parents/guardians all about this class'
   deliverables:
-    - 'Flipgrid: 30 Second Introduction'
-    - 'Interest Survey'
-    - 'Disclosure'
-  black diamonds:
+    - name: 'Flipgrid: 30 Second Introduction'
+      url: http://google.com
+    - name: 'Interest Survey'
+      url:
+    - name: 'Disclosure'
+      url:
+  blackDiamonds:
     - 'Interview a past student, find out what their favorite part of the Business Rotation was and share it with the class'
 
 - class: 2
   topic: Personal Finance
   career: Financial Managers
-  career URL: https://utahfutures.org/occupations/305/
+  careerURL: https://utahfutures.org/occupations/305/
   standards:
     - 'I can explain 6 personal finance principles covered in class'
     - 'I know the difference between a credit card and debit card'
     - 'I have identified what a Rich Life might mean for me, including what I am and am not willing to spend money on'
   deliverables:
-    - 'Flipgrid: Which is better, credit or debit?'
-    - '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
-  black diamonds:
+    - name: 'Flipgrid: Which is better, credit or debit?'
+      url:
+    - name: '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
+      url:
+  blackDiamonds:
     - 'Ask your parents about creating a savings or investment account, share your experience in video, presentation, or blog post'
 
 - class: 3
   topic: Cashiering
   career: Cashier
-  career URL: https://utahfutures.org/occupations/32/
+  careerURL: 'https://utahfutures.org/occupations/32/'
   standards:
     - 'I can take money and count back change up to $100'
   deliverables:
-    - 'Flipgrid: Count back change'
-    - 'Cashiering spreadsheet'
-  black diamonds:
+    - name: 'Flipgrid: Count back change'
+      url:
+    - name: 'Cashiering spreadsheet'
+      url:
+  blackDiamonds:
     - 'Apply for a cashiering job at the School Store'
 
 - class: 4
   topic: Getting a Job
   career: Human Resources Manager
-  career URL: https://utahfutures.org/occupations/390/
+  careerURL: https://utahfutures.org/occupations/390/
     - 'I filled out a job application including references'
     - 'I created a resume and reviewed it with a neighbor'
   deliverables:
-    - 'Flipgrid: Job Interview - Tell Me About Yourself'
-    - 'Flipgrid: Job Interview - Where do you see yourself in 5 years?'
-    - 'Flipgrid: Job Interview - What is your greatest weakness?'
-    - 'Job application for school store'
-  black diamonds:
+    - name: 'Flipgrid: Job Interview - Tell Me About Yourself'
+      url:
+    - name: 'Flipgrid: Job Interview - Where do you see yourself in 5 years?'
+      url:
+    - name: 'Flipgrid: Job Interview - What is your greatest weakness?'
+      url:
+    - name: 'Job application for school store'
+      url:
+  blackDiamonds:
     - 'Apply for an actual job, share your experience in video, presentation, or blog post'
 
 - class: 5
   topic: Computer Basics
   career: Wildcard - Find a Career That Uses a Computer
-  career URL: https://utahfutures.org/occupations
+  careerURL: https://utahfutures.org/occupations
   standards:
     - 'I can describe the past, present, and potential future of personal computing devices'
     - 'I know the difference between a super computer, a server, and a personal computer'
@@ -65,188 +74,213 @@
     - 'I can describe the difference between hardware and software'
     - 'I know how to use advanced Google Search features'
   deliverables:
-    - 'Flipgrid: Describe what is most exciting about future of computing'
-    - 'Flipgrid: Describe your geocaching experience'
-    - 'E-mail photo of you at the geocache'
-  black diamonds:
+    - name: 'Flipgrid: Describe what is most exciting about future of computing'
+      url:
+    - name: 'Flipgrid: Describe your geocaching experience'
+      url:
+    - name: 'E-mail photo of you at the geocache'
+      url:
+  blackDiamonds:
     - 'Build a working computer from parts'
     - 'Install a new operating system on a Raspberry Pi'
 
 - class: 6
   topic: Computer Programming
   career: Computer Programmer
-  career URL: https://utahfutures.org/occupations/45/
+  careerURL: https://utahfutures.org/occupations/45/
   standards:
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
   deliverables:
-    - 'Code.org Activity 1-10'
-  black diamonds:
+    - name: 'Code.org Activity 1-10'
+      url:
+  blackDiamonds:
     - 'Finish the Code.org K-8 curriculum'
 
 - class: 7
   topic: Computer Programming
   career: Computer Engineers
-  career URL: https://utahfutures.org/occupations/44/
+  careerURL: https://utahfutures.org/occupations/44/
   standards:
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
   deliverables:
-    - 'Code.org Activity 1-10'
-  black diamonds:
+    - name: 'Code.org Activity 1-10'
+      url:
+  blackDiamonds:
     - 'Finish the Code.org K-8 curriculum'
 
 - class: 8
   topic: Computer Programming
   career: Video Game Designer
-  career URL: https://utahfutures.org/occupations/535/
+  careerURL: https://utahfutures.org/occupations/535/
   standards:
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
   deliverables:
-    - 'Code.org Activity 1-10'
-  black diamonds:
+    - name: 'Code.org Activity 1-10'
+      url:
+  blackDiamonds:
     - 'Finish the Code.org K-8 curriculum'
 
 - class: 9
   topic: Word Processing
   career: Writer (Copy Writer)
-  career URL: https://utahfutures.org/occupations/468/
+  careerURL: https://utahfutures.org/occupations/468/
   standards:
     - 'I can describe the pros and cons of Microsoft Word, Apple Pages, and Google Docs'
     - 'I can create and save documents in Google Drive'
     - 'I have used basic word processing features like: titles, headings, bold, italics, highlights, headers, footers, cut, copy, paste, spell check, and word count'
   deliverables:
-    - 'Word Processing: Line/Font Google Doc'
-    - 'Word Processing: Copy/Paste Google Doc'
-  black diamonds:
+    - name: 'Word Processing: Line/Font Google Doc'
+      url:
+    - name: 'Word Processing: Copy/Paste Google Doc'
+      url:
+  blackDiamonds:
     - 'Convert an essay to use consistent titles and headers. Change the title and header styles for the entire document.'
 
 - class: 10
   topic: Spreadsheets
   career: Accountant
-  career URL: https://utahfutures.org/occupations/1/
+  careerURL: https://utahfutures.org/occupations/1/
   standards:
     - 'I can define sheet, tab, row, cell and their relation to spreadsheets'
     - 'I can enter data into a collaborative spreadsheet'
     - 'I can use Sum, Max, Min, Average functions'
     - 'I can format the document with colors, text sizes, titles, and charts'
   deliverables:
-    - 'Spreadsheets: Skittle Count Google Sheet'
-  black diamonds:
+    - name: 'Spreadsheets: Skittle Count Google Sheet'
+      url:
+  blackDiamonds:
     - 'Create a spreadsheet to calculate your grades for 3 classes using correct category weights and assignment scores'
 
 - class: 11
   topic: Marketing Product
   career: Industrial Designer
-  career URL: https://utahfutures.org/occupations/41/
+  careerURL: https://utahfutures.org/occupations/41/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can describe product design'
     - 'I have designed a product for a specific target market'
     - 'I am familiar with outsourcing, and the concept of the flat world'
   deliverables:
-    - 'Flipgrid: Why you chose your target market and design'
-    - 'Google Form: Link to TeeSpring campaign'
-  black diamonds:
+    - name: 'Flipgrid: Why you chose your target market and design'
+      url:
+    - name: 'Google Form: Link to TeeSpring campaign'
+      url:
+  blackDiamonds:
     - 'Meet your t-shirt sales goal'
     - 'Conduct 10 customer interviews to help decide what will be the most successful shirt, share your experience in video, presentation, or blog post'
 
 - class: 12
   topic: Marketing Price
   career: Statistician
-  career URL: https://utahfutures.org/occupations/196/
+  careerURL: https://utahfutures.org/occupations/196/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can define scarcity, supply, and demand and describe how they effect price'
     - 'I am familiar with different things companies do to reduce prices, and the pros and cons of those choices'
   deliverables:
-    - 'Flipgrid: Give a real world example of a price changing because of supply and demand'
-    - 'Flipgrid: What are the downsides to ever-lower prices?'
-    - 'Google Doc: 100 words. Defend your price point for your t-shirt.'
-  black diamonds:
+    - name: 'Flipgrid: Give a real world example of a price changing because of supply and demand'
+      url:
+    - name: 'Flipgrid: What are the downsides to ever-lower prices?'
+      url:
+    - name: 'Google Doc: 100 words. Defend your price point for your t-shirt.'
+      url:
+  blackDiamonds:
     - 'Meet your t-shirt sales goal'
     - 'Conduct a pricing research project for the vending machines or school store, share your experience in video, presentation, or blog post'
 
 - class: 13
   topic: Marketing Platform
   career: Retail Buyer and Purchasing Agents
-  career URL: https://utahfutures.org/occupations/254/
+  careerURL: https://utahfutures.org/occupations/254/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can define demographic, target market, and segmenting'
     - 'I can identify marketing strategies used in brick and mortor retail stores'
     - 'I can identify marketing strategies used online'
   deliverables:
-    - 'Flipgrid: What are three marketing strategies used in brick and morter retail stores?'
-    - 'Flipgrid: 60 seconds. Describe how you feel about online tracking, native advertising'
-  black diamonds:
+    - name: 'Flipgrid: What are three marketing strategies used in brick and morter retail stores?'
+      url:
+    - name: 'Flipgrid: 60 seconds. Describe how you feel about online tracking, native advertising'
+      url:
+  blackDiamonds:
     - 'Interview a manager/employee of a supermarket or retail store to learn more about the strategies used to increase sales, share your experience in video, presentation, or blog post'
 
 - class: 14
   topic: Marketing Promotion
   career: Advertising Managers
-  career URL: https://utahfutures.org/occupations/5/
+  careerURL: https://utahfutures.org/occupations/5/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can identify aspects of a good promotion and a poor promotion'
     - 'I am familiar with some basic TV, radio, outdoor, print, web, native, and viral promotion strategies'
   deliverables:
-    - 'Flipgrid: Describe the 4Ps to a new student'
-    - 'Google Doc: 250 word analysis of your favorite commercial'
-  black diamonds:
+    - name: 'Flipgrid: Describe the 4Ps to a new student'
+      url:
+    - name: 'Google Doc: 250 word analysis of your favorite commercial'
+      url:
+  blackDiamonds:
     - 'Create an impactful 30-60s commercial for a product for the school store, an elective, or a club at the school'
     - 'Design a professional looking poster for a product for the school store, an elective, or a club at the school'
 
 - class: 15
   topic: Presentations Teach
   career: Business Executives (CEO)
-  career URL: https://utahfutures.org/occupations/253/
+  careerURL: https://utahfutures.org/occupations/253/
   standards:
     - 'I can identify and discuss positive presentation strategies: planning, knowing content, confidence, appropriate for audience/context'
     - 'I can identify and discuss presentation mistakes: posture, slides as script, filler words, no preparation'
   deliverables:
-    - 'Flipgrid: What makes a great presentation?'
-  black diamonds:
+    - name: 'Flipgrid: What makes a great presentation?'
+      url:
+  blackDiamonds:
     - 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
 - class: 16
   topic: Presentations Prepare
   career: Sales Representative
-  career URL: https://utahfutures.org/occupations/183/
+  careerURL: https://utahfutures.org/occupations/183/
+  standards:
     - 'I can outline and prepare a presentation'
     - 'I can use Google Presentations to make a compelling slide deck'
     - 'I understand that practice makes a good presentation better'
   deliverables:
-    - 'Google Doc: Presentation outline.'
-    - 'Google Drive: Video of presentation practice'
-  black diamonds:
+    - name: 'Google Doc: Presentation outline.'
+      url:
+    - name: 'Google Drive: Video of presentation practice'
+      url:
+  blackDiamonds:
     - 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
 - class: 17
   topic: Presentations Present
   career: Entrepreneur
-  career URL: https://www.utahfutures.org/choosing/self-employment
+  careerURL: https://www.utahfutures.org/choosing/self-employment/
+  standards:
     - 'My presentation and slide deck are appropriate for the audience'
     - 'I have made a visibile effort to follow presentation best practices'
   deliverables:
-    - 'Google Drive: Presentation Deck'
-    - 'Presentation Performance'
-    - 'Google Form: Peer rating form'
-  black diamonds:
+    - name: 'Google Drive: Presentation Deck'
+      url:
+    - name: 'Presentation Performance'
+      url:
+    - name: 'Google Form: Peer rating form'
+      url:
+  blackDiamonds:
     - 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
 - class: 18
   topic: Shark Tank and Wrap Up
-  career: 
-  career URL: https://www.utahfutures.org/choosing/self-employment
   standards:
     - 'I know what electives I should take if I enjoyed this CTE Intro rotation'
     - 'I have left feedback for future students and for Mr. Hicks'
   deliverables:
-    - 'Shark Tank Activity'
-  black diamonds:
+    - name: 'Shark Tank Activity'
+      url:
+  blackDiamonds:
     - 'Sign up for Teen Entrepreneurship'

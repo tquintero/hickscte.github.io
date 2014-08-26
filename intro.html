@@ -12,16 +12,35 @@ title: CTE Intro
 </div> -->
 
 <div class="posts">
-  {% for class in site.data.intro.outline %}
+  {% for class in site.data.intro.term %}
   <div class="post">
     <h1 class="post-title"><a name="{{ class.number }}">
-        #{{ class.Class }} - {{ class.Topic }}</a>
-    </h1>
-    <ul>
-      {% for standard in class.Standards %}
+        Unit {{ class.class }} - {{ class.topic }}</a>
+    </h1>    
+    <h2>Goals</h2>
+    <ol>
+      {% for standard in class.standards %}
       <li>{{ standard }}</li>
       {% endfor %}
+    </ol>
+
+    {% if class.career %}
+    <h2>Career Summary</h2>
+    <p class="message"><a href="{{ class.careerURL }}">{{ class.career }}</a></p>
+    {% endif %}
+
+    {% if class.deliverables %}
+    <h2>Deliverables</h2>
+    <ul>
+      {% for deliverable in class.deliverables %}
+      {% if deliverable.url %}
+      <li><a href="{{ deliverable.url }}">{{ deliverable.name }}</a></li>
+      {% else %}
+      <li>{{ deliverable.name }}</li>
+      {% endif %}
+      {% endfor %}
     </ul>
+    {% endif %}
   </div>
   {% endfor %}
 </div>
