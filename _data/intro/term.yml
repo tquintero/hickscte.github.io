@@ -61,6 +61,10 @@
   topic: Getting a Job
   career: Human Resources Manager
   careerURL: https://utahfutures.org/occupations/390/
+  standards:
+    - 'I know where to look for jobs I could get right now'
+    - 'I know how to apply for a job, and have done so'
+    - 'I have demonstrated best practices for interviews'
     - 'I filled out a job application including references'
     - 'I created a resume and reviewed it with a neighbor'
   resources:
