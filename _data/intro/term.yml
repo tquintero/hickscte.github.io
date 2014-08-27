@@ -5,6 +5,10 @@
     - 'I can tell you what CTE Intro is, and what the Business rotation will cover'
     - 'I can log in to the computer, Skyward, and my school Gmail account'
     - 'I will tell my parents/guardians all about this class'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: 30 Second Introduction'
       url: http://google.com
@@ -13,7 +17,7 @@
     - name: 'Disclosure'
       url:
   blackDiamonds:
-    - 'Interview a past student, find out what their favorite part of the Business Rotation was and share it with the class'
+    - name: 'Interview a past student, find out what their favorite part of the Business Rotation was and share it with the class'
 
 - class: 2
   topic: Personal Finance
@@ -23,13 +27,17 @@
     - 'I can explain 6 personal finance principles covered in class'
     - 'I know the difference between a credit card and debit card'
     - 'I have identified what a Rich Life might mean for me, including what I am and am not willing to spend money on'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Which is better, credit or debit?'
       url:
     - name: '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
       url:
   blackDiamonds:
-    - 'Ask your parents about creating a savings or investment account, share your experience in video, presentation, or blog post'
+    - name: 'Ask your parents about creating a savings or investment account, share your experience in video, presentation, or blog post'
 
 - class: 3
   topic: Cashiering
@@ -37,13 +45,17 @@
   careerURL: 'https://utahfutures.org/occupations/32/'
   standards:
     - 'I can take money and count back change up to $100'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Count back change'
       url:
     - name: 'Cashiering spreadsheet'
       url:
   blackDiamonds:
-    - 'Apply for a cashiering job at the School Store'
+    - name: 'Apply for a cashiering job at the School Store'
 
 - class: 4
   topic: Getting a Job
@@ -51,6 +63,10 @@
   careerURL: https://utahfutures.org/occupations/390/
     - 'I filled out a job application including references'
     - 'I created a resume and reviewed it with a neighbor'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Job Interview - Tell Me About Yourself'
       url:
@@ -61,7 +77,7 @@
     - name: 'Job application for school store'
       url:
   blackDiamonds:
-    - 'Apply for an actual job, share your experience in video, presentation, or blog post'
+    - name: 'Apply for an actual job, share your experience in video, presentation, or blog post'
 
 - class: 5
   topic: Computer Basics
@@ -73,6 +89,10 @@
     - 'I can describe how the Internet works as a giant network'
     - 'I can describe the difference between hardware and software'
     - 'I know how to use advanced Google Search features'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Describe what is most exciting about future of computing'
       url:
@@ -81,8 +101,8 @@
     - name: 'E-mail photo of you at the geocache'
       url:
   blackDiamonds:
-    - 'Build a working computer from parts'
-    - 'Install a new operating system on a Raspberry Pi'
+    - name: 'Build a working computer from parts'
+    - name: 'Install a new operating system on a Raspberry Pi'
 
 - class: 6
   topic: Computer Programming
@@ -92,11 +112,15 @@
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Code.org Activity 1-10'
       url:
   blackDiamonds:
-    - 'Finish the Code.org K-8 curriculum'
+    - name: 'Finish the Code.org K-8 curriculum'
 
 - class: 7
   topic: Computer Programming
@@ -106,11 +130,15 @@
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Code.org Activity 1-10'
       url:
   blackDiamonds:
-    - 'Finish the Code.org K-8 curriculum'
+    - name: 'Finish the Code.org K-8 curriculum'
 
 - class: 8
   topic: Computer Programming
@@ -120,11 +148,15 @@
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Code.org Activity 1-10'
       url:
   blackDiamonds:
-    - 'Finish the Code.org K-8 curriculum'
+    - name: 'Finish the Code.org K-8 curriculum'
 
 - class: 9
   topic: Word Processing
@@ -134,13 +166,17 @@
     - 'I can describe the pros and cons of Microsoft Word, Apple Pages, and Google Docs'
     - 'I can create and save documents in Google Drive'
     - 'I have used basic word processing features like: titles, headings, bold, italics, highlights, headers, footers, cut, copy, paste, spell check, and word count'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Word Processing: Line/Font Google Doc'
       url:
     - name: 'Word Processing: Copy/Paste Google Doc'
       url:
   blackDiamonds:
-    - 'Convert an essay to use consistent titles and headers. Change the title and header styles for the entire document.'
+    - name: 'Convert an essay to use consistent titles and headers. Change the title and header styles for the entire document.'
 
 - class: 10
   topic: Spreadsheets
@@ -151,11 +187,15 @@
     - 'I can enter data into a collaborative spreadsheet'
     - 'I can use Sum, Max, Min, Average functions'
     - 'I can format the document with colors, text sizes, titles, and charts'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Spreadsheets: Skittle Count Google Sheet'
       url:
   blackDiamonds:
-    - 'Create a spreadsheet to calculate your grades for 3 classes using correct category weights and assignment scores'
+    - name: 'Create a spreadsheet to calculate your grades for 3 classes using correct category weights and assignment scores'
 
 - class: 11
   topic: Marketing Product
@@ -166,14 +206,18 @@
     - 'I can describe product design'
     - 'I have designed a product for a specific target market'
     - 'I am familiar with outsourcing, and the concept of the flat world'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Why you chose your target market and design'
       url:
     - name: 'Google Form: Link to TeeSpring campaign'
       url:
   blackDiamonds:
-    - 'Meet your t-shirt sales goal'
-    - 'Conduct 10 customer interviews to help decide what will be the most successful shirt, share your experience in video, presentation, or blog post'
+    - name: 'Meet your t-shirt sales goal'
+    - name: 'Conduct 10 customer interviews to help decide what will be the most successful shirt, share your experience in video, presentation, or blog post'
 
 - class: 12
   topic: Marketing Price
@@ -183,6 +227,10 @@
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can define scarcity, supply, and demand and describe how they effect price'
     - 'I am familiar with different things companies do to reduce prices, and the pros and cons of those choices'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Give a real world example of a price changing because of supply and demand'
       url:
@@ -191,8 +239,8 @@
     - name: 'Google Doc: 100 words. Defend your price point for your t-shirt.'
       url:
   blackDiamonds:
-    - 'Meet your t-shirt sales goal'
-    - 'Conduct a pricing research project for the vending machines or school store, share your experience in video, presentation, or blog post'
+    - name: 'Meet your t-shirt sales goal'
+    - name: 'Conduct a pricing research project for the vending machines or school store, share your experience in video, presentation, or blog post'
 
 - class: 13
   topic: Marketing Platform
@@ -203,13 +251,17 @@
     - 'I can define demographic, target market, and segmenting'
     - 'I can identify marketing strategies used in brick and mortor retail stores'
     - 'I can identify marketing strategies used online'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: What are three marketing strategies used in brick and morter retail stores?'
       url:
     - name: 'Flipgrid: 60 seconds. Describe how you feel about online tracking, native advertising'
       url:
   blackDiamonds:
-    - 'Interview a manager/employee of a supermarket or retail store to learn more about the strategies used to increase sales, share your experience in video, presentation, or blog post'
+    - name: 'Interview a manager/employee of a supermarket or retail store to learn more about the strategies used to increase sales, share your experience in video, presentation, or blog post'
 
 - class: 14
   topic: Marketing Promotion
@@ -219,14 +271,18 @@
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can identify aspects of a good promotion and a poor promotion'
     - 'I am familiar with some basic TV, radio, outdoor, print, web, native, and viral promotion strategies'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: Describe the 4Ps to a new student'
       url:
     - name: 'Google Doc: 250 word analysis of your favorite commercial'
       url:
   blackDiamonds:
-    - 'Create an impactful 30-60s commercial for a product for the school store, an elective, or a club at the school'
-    - 'Design a professional looking poster for a product for the school store, an elective, or a club at the school'
+    - name: 'Create an impactful 30-60s commercial for a product for the school store, an elective, or a club at the school'
+    - name: 'Design a professional looking poster for a product for the school store, an elective, or a club at the school'
 
 - class: 15
   topic: Presentations Teach
@@ -235,11 +291,15 @@
   standards:
     - 'I can identify and discuss positive presentation strategies: planning, knowing content, confidence, appropriate for audience/context'
     - 'I can identify and discuss presentation mistakes: posture, slides as script, filler words, no preparation'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Flipgrid: What makes a great presentation?'
       url:
   blackDiamonds:
-    - 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
+    - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
 - class: 16
   topic: Presentations Prepare
@@ -249,13 +309,17 @@
     - 'I can outline and prepare a presentation'
     - 'I can use Google Presentations to make a compelling slide deck'
     - 'I understand that practice makes a good presentation better'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Google Doc: Presentation outline.'
       url:
     - name: 'Google Drive: Video of presentation practice'
       url:
   blackDiamonds:
-    - 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
+    - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
 - class: 17
   topic: Presentations Present
@@ -264,6 +328,10 @@
   standards:
     - 'My presentation and slide deck are appropriate for the audience'
     - 'I have made a visibile effort to follow presentation best practices'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Google Drive: Presentation Deck'
       url:
@@ -272,15 +340,19 @@
     - name: 'Google Form: Peer rating form'
       url:
   blackDiamonds:
-    - 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
+    - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
 - class: 18
   topic: Shark Tank and Wrap Up
   standards:
     - 'I know what electives I should take if I enjoyed this CTE Intro rotation'
     - 'I have left feedback for future students and for Mr. Hicks'
+  resources:
+    - name:
+      url:
+      embed: false
   deliverables:
     - name: 'Shark Tank Activity'
       url:
   blackDiamonds:
-    - 'Sign up for Teen Entrepreneurship'
+    - name: 'Sign up for Teen Entrepreneurship'

@@ -41,6 +41,19 @@ title: CTE Intro
       {% endfor %}
     </ul>
     {% endif %}
+
+    {% if class.blackDiamonds %}
+    <h2>Black Diamonds</h2>
+    <ul>
+      {% for blackDiamond in class.blackDiamonds %}
+      {% if blackDiamond.url %}
+      <li><a href="{{ blackDiamond.url }}">{{ blackDiamond.name }}</a></li>
+      {% else %}
+      <li>{{ blackDiamond.name }}</li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
   </div>
   {% endfor %}
 </div>
