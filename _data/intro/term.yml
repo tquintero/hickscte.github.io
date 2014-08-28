@@ -11,7 +11,7 @@
       kind: false
   deliverables:
     - name: 'Flipgrid: 30 Second Introduction'
-      url: http://flipgrid.com/#3424cbae
+      url: 
     - name: 'Interest Survey'
       url:
     - name: 'Disclosure'
@@ -33,7 +33,7 @@
       kind: false
   deliverables:
     - name: 'Flipgrid: Which is better, credit or debit?'
-      url:
+      url: http://flipgrid.com/#3424cbae
     - name: '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
       url:
   blackDiamonds:
