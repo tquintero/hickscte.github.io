@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Teen Entrepreneurship
+course: tent
 standards:
   - name: 'I know a little more about Mr. Hicks and my classmates.'
   - name: 'I can tell you what Teen Entrepreneurship is all about, and what will be expected of me.'

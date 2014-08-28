@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Class
+course: 
 standards:
   - name: 'I know a little more about Mr. Hicks and my classmates.'
   - name: 'I can tell you what CTE Intro is all about, and what the four rotations are.'

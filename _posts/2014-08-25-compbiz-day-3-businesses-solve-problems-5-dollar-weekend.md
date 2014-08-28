@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Teen Entrepreneurship: Businesses Solve Problems'
+course: tent
 standards:
   - name: 'I can define scarcity, demand, supply, opportunity cost'
   - name: 'I understand that a successful business solves problems'

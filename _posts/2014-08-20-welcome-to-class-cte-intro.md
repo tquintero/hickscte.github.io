@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to CTE Introduction to Business
+course: intro
 standards:
   - name: 'I know a little more about Mr. Hicks and my classmates.'
   - name: 'I can tell you what CTE Intro is all about, and what the four rotations are.'

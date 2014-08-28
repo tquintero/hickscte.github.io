@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CTE Intro Reality Check
+course: intro
 standards:
   - name: 'I can think positively about my future, and have begun thinking about what I want out of my life'
   - name: 'I have researched two careers I am interested in for my future'

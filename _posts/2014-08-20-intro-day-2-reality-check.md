@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to CTE Introduction to Business
+course: intro
 standards:
   - name: 'I have my CDA binder for the year made'
   - name: 'I will tell my parents about CTE Intro'
