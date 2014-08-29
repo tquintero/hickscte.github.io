@@ -2,6 +2,56 @@
 layout: default
 ---
 
+ 
+
+{% if page.course == 'intro' %}
+{% assign class_data = site.data.intro.term | where:"class", page.class %}
+{% assign class = class_data | first %} 
+<div class="post"> 
+    <h1 class="post-title"><a name="{{ class.number }}">
+        Unit {{ class.class }} - {{ class.topic }}</a>
+    </h1>    
+    <h2>Goals</h2>
+    <ol>
+      {% for standard in class.standards %}
+      <li>{{ standard }}</li>
+      {% endfor %}
+    </ol>
+
+    {% if class.career %}
+    <h2>Career Summary</h2>
+    <p class="message"><a href="{{ class.careerURL }}">{{ class.career }}</a></p>
+    {% endif %}
+
+    {% if class.deliverables %}
+    <h2>Deliverables</h2>
+    <ul>
+      {% for deliverable in class.deliverables %}
+      {% if deliverable.url %}
+      <li><a href="{{ deliverable.url }}">{{ deliverable.name }}</a></li>
+      {% else %}
+      <li>{{ deliverable.name }}</li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if class.blackDiamonds %}
+    <h2>Black Diamonds</h2>
+    <ul>
+      {% for blackDiamond in class.blackDiamonds %}
+      {% if blackDiamond.url %}
+      <li><a href="{{ blackDiamond.url }}">{{ blackDiamond.name }}</a></li>
+      {% else %}
+      <li>{{ blackDiamond.name }}</li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
