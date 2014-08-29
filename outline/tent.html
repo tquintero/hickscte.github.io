@@ -17,15 +17,12 @@ title: CTE Intro
     <h1 class="post-title"><a name="{{ class.number }}">
         Unit {{ class.class }} - {{ class.topic }}</a>
     </h1>    
- 
-    {% if class.standards %}
     <h2>Goals</h2>
     <ol>
       {% for standard in class.standards %}
       <li>{{ standard }}</li>
       {% endfor %}
-    </ol>    
-    {% endif %}
+    </ol>
 
     {% if class.career %}
     <h2>Career Summary</h2>

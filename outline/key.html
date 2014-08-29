@@ -15,12 +15,12 @@ title: Keyboarding
   {% for class in site.data.key.term %}
   <div class="post">
     <h1 class="post-title"><a name="{{ class.number }}">
-        Circuit #{{ class.class }} - {{ class.topic }}</a>
-    </h1>    
+        Unit #{{ class.class }} - {{ class.topic }}</a>
+    </h1>
 
     {% if class.resources %}
-      {% for resource in class.resources %}
-      {% if resource.kind == "circuit" %}
+    {% for resource in class.resources %}
+    {% if resource.kind == "circuit" %}
       <center><video controls="controls" height="auto" width="100%" max-width="640">
       <source src="{{ resource.url }}" type="video/mp4"></source>
       </video></center>
@@ -28,18 +28,35 @@ title: Keyboarding
     {% endfor %}
     {% endif %}
 
+    {% if class.standards %}
+    <h2>Goals</h2>
+    <ol>
+      {% for standard in class.standards %}
+      <li>{{ standard }}</li>
+      {% endfor %}
+    </ol>    
+    {% endif %}
+
     {% if class.resources %}
-    <h2>Other Resources</h2>
+    <h2>Resources</h2>
     <ul>
       {% for resource in class.resources %}
-      {% if resource.url %}
-      <li><a href="{{ resource.url }}">{{ resource.name }} #{{ class.class }}</a> - {{ class.topic }}</li>
-      {% else %}
-      <li>{{ resource.name }}</li>
-      {% endif %}
+        {% case resource.kind %}
+        {% when 'tw' %}
+        <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        {% when 'wp' %}
+        <li><i class="fa fa-pencil"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        {% when 'link' %}
+        {% if resource.url %}
+        <li><i class="fa fa-link"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        {% else %}
+        <li>{{ resource.name }}</li>
+        {% endif %}
+        {% endcase %}
       {% endfor %}
     </ul>
     {% endif %}
+
 
     {% if class.deliverables %}
     <h2>Deliverables</h2>
