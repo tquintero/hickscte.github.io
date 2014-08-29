@@ -13,35 +13,12 @@
       {% endif %}
     </div>
 
-
-    {% if page.standards %}
-    <hr />
-    <h3 class="sidebar-nav-item">Goals:</h3>
-    <nav class="sidebar-nav">
-      {% comment %}
-        The code below dynamically generates a sidebar list of standards entered
-        in the current post, if they exist.
-      {% endcomment %}
-
-      {% for item in page.standards %}
-      <span class"sidebar-nav-item">- {{ item.name }}</span><br />
-      {% endfor %}
-    </nav>
-    <hr />
-    {% endif %}
-
-
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Home</a>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      <a class="sidebar-nav-item" href="http://hickscte.com/intro-outline/">CTE Intro</a>
-      <a class="sidebar-nav-item" href="http://hickscte.com/tent/">Teen Entrepreneurship</a>
-      <a class="sidebar-nav-item" href="http://hickscte.com/key/">Keyboarding</a>
+      <a class="sidebar-nav-item" href="http://hickscte.com/outline/intro/">CTE Intro</a>
+      <a class="sidebar-nav-item" href="http://hickscte.com/outline/tent/">Teen Entrepreneurship</a>
+      <a class="sidebar-nav-item" href="http://hickscte.com/outline/key/">Keyboarding</a>
       <a class="sidebar-nav-item" href="mailto:{{ site.email }}?subject=">Contact</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
