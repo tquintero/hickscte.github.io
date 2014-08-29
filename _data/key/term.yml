@@ -1,0 +1,617 @@
+- class: 1
+  topic:	Homerow
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c1.mp4
+      kind: circuit
+    - name:
+      url: http://edutyping.com
+      kind: Timed Writing
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other: Pre-test
+
+- class: 2
+  topic:	Homerow
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c2.mp4
+      kind: circuit
+    - name: Email Etiquette
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 3
+  topic:	H, E
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c3.mp4
+      kind: circuit
+    - name: "Financial Literacy: An Essential Tool for Teens"
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 4
+  topic:	I, R
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c4.mp4
+      kind: circuit
+    - name: What's SUP? Paddleboarding Increasing in Popularity
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 5
+  topic:	I, R
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c5.mp4
+      kind: circuit
+    - name: "Cell Phones: Then and Now"
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 6
+  topic:	T, O
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c6.mp4
+      kind: circuit
+    - name: Healthy Choices Join the Cafeteria Line
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 7
+  topic:	N, G
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c7.mp4
+      kind: circuit
+    - name: "The iPod: In the Beginning"
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 8
+  topic:	Left Shift, Period
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c8.mp4
+      kind: circuit
+    - name: Twilight Mania
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 9
+  topic:	Left Shift, Period
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c9.mp4
+      kind: circuit
+    - name: The Importance of Reading
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 10
+  topic:	U, C
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c10.mp4
+      kind: circuit
+    - name: Expression and the Arts
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 11
+  topic:	Right Shift, W
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c11.mp4
+      kind: circuit
+    - name: Top Baby Names of the Decade
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 12
+  topic:	B, Y
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c12.mp4
+      kind: circuit
+    - name: The Obama Daughters
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 13
+  topic:	B, Y
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c13.mp4
+      kind: circuit
+    - name: Get Your Popcorn
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 14
+  topic:	M, X
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c14.mp4
+      kind: circuit
+    - name: Snowboarding is Here to Stay
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 15
+  topic:	P, V
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c15.mp4
+      kind: circuit
+    - name: Protect Your Computer
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 16
+  topic:	Q, Comma
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c16.mp4
+      kind: circuit
+    - name: What is DECA?
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 17
+  topic:	Q, Comma
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c17.mp4
+      kind: circuit
+    - name: What is a BLOG?
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 18
+  topic:	Z, Colon
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c18.mp4
+      kind: circuit
+    - name: Friday Night Lights
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 19
+  topic:	CAPS, Question Mark
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c19.mp4
+      kind: circuit
+    - name: Skateboarding is Born
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 20
+  topic:	Apostrophe, Dash
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c20.mp4
+      kind: circuit
+    - name: The Power of Pets
+      url: http://edutyping.com
+      kind: Timed Writing
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 21
+  topic:	Quotation Marks
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c21.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 22
+  topic:	Quotation Marks
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c22.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 23
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c23.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 24
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c24.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 25
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c25.mp4
+      kind: circuit
+    - name: 2C - The Five Senses
+      url: http://edutyping.com
+      kind: Timed Writing
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 26
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c26.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 27
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c27.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 28
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c28.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 29
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c29.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 30
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c30.mp4
+      kind: circuit
+    - name: 2C - Dogs That Change the World
+      url: http://edutyping.com
+      kind: Timed Writing
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 31
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c31.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 32
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c32.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 33
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c33.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 34
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c34.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 35
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c35.mp4
+      kind: circuit
+    - name: The World's Tallest Man and Woman
+      url: http://edutyping.com
+      kind: Timed Writing
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 36
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c36.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 37
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c37.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 38
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c38.mp4
+      kind: circuit
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 39
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c39.mp4
+      kind: circuit
+    - name: Twitter Facts
+      url: http://edutyping.com
+      kind: Timed Writing
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
+
+- class: 40
+  topic:	Review
+  standards:
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c40.mp4
+      kind: circuit
+    - name: 
+      url: http://edutyping.com
+      kind: Timed Writing
+    - name:
+      url:
+      kind: Writing Prompt
+  deliverables:
+    - name:
+      url:
+  other:
