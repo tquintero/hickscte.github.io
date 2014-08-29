@@ -22,6 +22,8 @@ Great entrepreneurs have a flexible but strong plan. You should have a plan head
 4. How will you find customers?
 5. When will you do it?
 
+Submit your plans via [Google Form](https://docs.google.com/forms/d/1tDrS9d88X5lBxxvFxFfJzG22R4HTGDByxPIuy_v9PzM/viewform?usp=send_form). It may also be a good idea to write your plans in Google Docs.
+
 Also, be prepared for the presentation. A couple of guidelines:
 
 * Blog posts should be 500 words
