@@ -1,0 +1,71 @@
+---
+layout: default
+title: Keyboarding
+---
+
+<!-- <div class="posts">
+  <ul>
+    {% for circuit in site.data.circuits %}
+    <li><a href="#c{{ circuit.number }}">Circuit #{{ circuit.number }}</a></li>
+    {% endfor %}
+  </ul>
+</div> -->
+
+<div class="posts">
+  {% for class in site.data.key.term %}
+  <div class="post">
+    <h1 class="post-title"><a name="{{ class.number }}">
+        Circuit #{{ class.class }} - {{ class.topic }}</a>
+    </h1>    
+
+    {% if class.resources %}
+      {% for resource in class.resources %}
+      {% if resource.kind == "circuit" %}
+      <center><video controls="controls" height="auto" width="100%" max-width="640">
+      <source src="{{ resource.url }}" type="video/mp4"></source>
+      </video></center>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+
+    {% if class.resources %}
+    <h2>Other Resources</h2>
+    <ul>
+      {% for resource in class.resources %}
+      {% if resource.url %}
+      <li><a href="{{ resource.url }}">{{ resource.name }} #{{ class.class }}</a> - {{ class.topic }}</li>
+      {% else %}
+      <li>{{ resource.name }}</li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if class.deliverables %}
+    <h2>Deliverables</h2>
+    <ul>
+      {% for deliverable in class.deliverables %}
+      {% if deliverable.url %}
+      <li><a href="{{ deliverable.url }}">{{ deliverable.name }}</a></li>
+      {% else %}
+      <li>{{ deliverable.name }}</li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if class.blackDiamonds %}
+    <h2>Black Diamonds</h2>
+    <ul>
+      {% for blackDiamond in class.blackDiamonds %}
+      {% if blackDiamond.url %}
+      <li><a href="{{ blackDiamond.url }}">{{ blackDiamond.name }}</a></li>
+      {% else %}
+      <li>{{ blackDiamond.name }}</li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
