@@ -3,14 +3,6 @@ layout: default
 title: CTE Intro
 ---
 
-<!-- <div class="posts">
-  <ul>
-    {% for circuit in site.data.circuits %}
-    <li><a href="#c{{ circuit.number }}">Circuit #{{ circuit.number }}</a></li>
-    {% endfor %}
-  </ul>
-</div> -->
-
 <div class="posts">
   {% for class in site.data.intro.term %}
   <div class="post">
@@ -27,9 +19,33 @@ title: CTE Intro
     </ol>    
     {% endif %}
 
-    {% if class.career %}
-    <h2>Career Summary</h2>
-    <p class="message"><a href="{{ class.careerURL }}">{{ class.career }}</a></p>
+    {% if class.resources %}
+    {% for resource in class.resources %}
+    {% if resource.kind == "career" %}
+      <h2>Career Summary</h2>
+      <p class="message"><a href="{{ resource.url }}">{{ resource.name }}</a></p>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+
+    {% if class.resources %}
+    <h2>Resources</h2>
+    <ul>
+      {% for resource in class.resources %}
+        {% case resource.kind %}
+        {% when 'tw' %}
+        <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        {% when 'wp' %}
+        <li><i class="fa fa-pencil"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        {% when 'link' %}
+        {% if resource.url %}
+        <li><i class="fa fa-link"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        {% else %}
+        <li>{{ resource.name }}</li>
+        {% endif %}
+        {% endcase %}
+      {% endfor %}
+    </ul>
     {% endif %}
 
     {% if class.deliverables %}
