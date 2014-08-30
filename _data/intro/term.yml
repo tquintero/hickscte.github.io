@@ -6,10 +6,15 @@
     - 'I can log in to the computer, Skyward, and my school Gmail account'
     - 'I will tell my parents/guardians all about this class'
   resources:
-    - name:
+    - name: Disclosure
       url:
-      kind: false
+      kind: link
+    - name:  Welcome Discussion Deck
+      url:
+      kind: link
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: 30 Second Introduction'
       url: 
     - name: 'Interest Survey'
@@ -21,17 +26,19 @@
 
 - class: 2
   topic: Personal Finance
-  career: Financial Managers
-  careerURL: https://utahfutures.org/occupations/305/
   standards:
     - 'I can explain 6 personal finance principles covered in class'
     - 'I know the difference between a credit card and debit card'
     - 'I have identified what a Rich Life might mean for me, including what I am and am not willing to spend money on'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Financial Managers
+      url: https://utahfutures.org/occupations/305/
+      kind: career
+    - name: Credit Card Cost Sample Spreadsheet
+      url: https://docs.google.com/spreadsheets/d/11Hsgg3y7wZ8fk7TUxvWzJpbugNq-ooxBiVQspq3kCjU/edit?usp=sharing
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Which is better, credit or debit?'
       url: http://flipgrid.com/#3424cbae
     - name: '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
@@ -41,15 +48,15 @@
 
 - class: 3
   topic: Cashiering
-  career: Cashier
-  careerURL: 'https://utahfutures.org/occupations/32/'
   standards:
     - 'I can take money and count back change up to $100'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Cashier
+      url: 'https://utahfutures.org/occupations/32/'
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Count back change'
       url:
     - name: 'Cashiering spreadsheet'
@@ -59,8 +66,6 @@
 
 - class: 4
   topic: Getting a Job
-  career: Human Resources Manager
-  careerURL: https://utahfutures.org/occupations/390/
   standards:
     - 'I know where to look for jobs I could get right now'
     - 'I know how to apply for a job, and have done so'
@@ -68,10 +73,12 @@
     - 'I filled out a job application including references'
     - 'I created a resume and reviewed it with a neighbor'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Human Resources Manager
+      url: https://utahfutures.org/occupations/390/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Job Interview - Tell Me About Yourself'
       url:
     - name: 'Flipgrid: Job Interview - Where do you see yourself in 5 years?'
@@ -85,8 +92,6 @@
 
 - class: 5
   topic: Computer Basics
-  career: Wildcard - Find a Career That Uses a Computer
-  careerURL: https://utahfutures.org/occupations
   standards:
     - 'I can describe the past, present, and potential future of personal computing devices'
     - 'I know the difference between a super computer, a server, and a personal computer'
@@ -94,10 +99,12 @@
     - 'I can describe the difference between hardware and software'
     - 'I know how to use advanced Google Search features'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Wildcard - Find a Career That Uses a Computer
+      url: https://utahfutures.org/occupations
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Describe what is most exciting about future of computing'
       url:
     - name: 'Flipgrid: Describe your geocaching experience'
@@ -110,17 +117,17 @@
 
 - class: 6
   topic: Computer Programming
-  career: Computer Programmer
-  careerURL: https://utahfutures.org/occupations/45/
   standards:
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Computer Programmer
+      url: https://utahfutures.org/occupations/45/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Code.org Activity 1-10'
       url:
   blackDiamonds:
@@ -128,17 +135,17 @@
 
 - class: 7
   topic: Computer Programming
-  career: Computer Engineers
-  careerURL: https://utahfutures.org/occupations/44/
   standards:
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Computer Engineers
+      url: https://utahfutures.org/occupations/44/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Code.org Activity 1-10'
       url:
   blackDiamonds:
@@ -146,17 +153,17 @@
 
 - class: 8
   topic: Computer Programming
-  career: Video Game Designer
-  careerURL: https://utahfutures.org/occupations/535/
   standards:
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Video Game Designer
+      url: https://utahfutures.org/occupations/535/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Code.org Activity 1-10'
       url:
   blackDiamonds:
@@ -164,17 +171,17 @@
 
 - class: 9
   topic: Word Processing
-  career: Writer (Copy Writer)
-  careerURL: https://utahfutures.org/occupations/468/
   standards:
     - 'I can describe the pros and cons of Microsoft Word, Apple Pages, and Google Docs'
     - 'I can create and save documents in Google Drive'
     - 'I have used basic word processing features like: titles, headings, bold, italics, highlights, headers, footers, cut, copy, paste, spell check, and word count'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Writer (Copy Writer)
+      url: https://utahfutures.org/occupations/468/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Word Processing: Line/Font Google Doc'
       url:
     - name: 'Word Processing: Copy/Paste Google Doc'
@@ -184,18 +191,18 @@
 
 - class: 10
   topic: Spreadsheets
-  career: Accountant
-  careerURL: https://utahfutures.org/occupations/1/
   standards:
     - 'I can define sheet, tab, row, cell and their relation to spreadsheets'
     - 'I can enter data into a collaborative spreadsheet'
     - 'I can use Sum, Max, Min, Average functions'
     - 'I can format the document with colors, text sizes, titles, and charts'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Accountant
+      url: https://utahfutures.org/occupations/1/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Spreadsheets: Skittle Count Google Sheet'
       url:
   blackDiamonds:
@@ -203,18 +210,18 @@
 
 - class: 11
   topic: Marketing Product
-  career: Industrial Designer
-  careerURL: https://utahfutures.org/occupations/41/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can describe product design'
     - 'I have designed a product for a specific target market'
     - 'I am familiar with outsourcing, and the concept of the flat world'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Industrial Designer
+      url: https://utahfutures.org/occupations/41/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Why you chose your target market and design'
       url:
     - name: 'Google Form: Link to TeeSpring campaign'
@@ -225,17 +232,17 @@
 
 - class: 12
   topic: Marketing Price
-  career: Statistician
-  careerURL: https://utahfutures.org/occupations/196/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can define scarcity, supply, and demand and describe how they effect price'
     - 'I am familiar with different things companies do to reduce prices, and the pros and cons of those choices'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Statistician
+      url: https://utahfutures.org/occupations/196/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Give a real world example of a price changing because of supply and demand'
       url:
     - name: 'Flipgrid: What are the downsides to ever-lower prices?'
@@ -248,18 +255,18 @@
 
 - class: 13
   topic: Marketing Platform
-  career: Retail Buyer and Purchasing Agents
-  careerURL: https://utahfutures.org/occupations/254/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can define demographic, target market, and segmenting'
     - 'I can identify marketing strategies used in brick and mortor retail stores'
     - 'I can identify marketing strategies used online'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Retail Buyer and Purchasing Agents
+      url: https://utahfutures.org/occupations/254/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: What are three marketing strategies used in brick and morter retail stores?'
       url:
     - name: 'Flipgrid: 60 seconds. Describe how you feel about online tracking, native advertising'
@@ -269,17 +276,17 @@
 
 - class: 14
   topic: Marketing Promotion
-  career: Advertising Managers
-  careerURL: https://utahfutures.org/occupations/5/
   standards:
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can identify aspects of a good promotion and a poor promotion'
     - 'I am familiar with some basic TV, radio, outdoor, print, web, native, and viral promotion strategies'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Advertising Managers
+      url: https://utahfutures.org/occupations/5/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Describe the 4Ps to a new student'
       url:
     - name: 'Google Doc: 250 word analysis of your favorite commercial'
@@ -290,16 +297,16 @@
 
 - class: 15
   topic: Presentations Teach
-  career: Business Executives (CEO)
-  careerURL: https://utahfutures.org/occupations/253/
   standards:
     - 'I can identify and discuss positive presentation strategies: planning, knowing content, confidence, appropriate for audience/context'
     - 'I can identify and discuss presentation mistakes: posture, slides as script, filler words, no preparation'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Business Executives (CEO)
+      url: https://utahfutures.org/occupations/253/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: What makes a great presentation?'
       url:
   blackDiamonds:
@@ -307,17 +314,17 @@
 
 - class: 16
   topic: Presentations Prepare
-  career: Sales Representative
-  careerURL: https://utahfutures.org/occupations/183/
   standards:
     - 'I can outline and prepare a presentation'
     - 'I can use Google Presentations to make a compelling slide deck'
     - 'I understand that practice makes a good presentation better'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Sales Representative
+      url: https://utahfutures.org/occupations/183/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Google Doc: Presentation outline.'
       url:
     - name: 'Google Drive: Video of presentation practice'
@@ -327,16 +334,16 @@
 
 - class: 17
   topic: Presentations Present
-  career: Entrepreneur
-  careerURL: https://www.utahfutures.org/choosing/self-employment/
   standards:
     - 'My presentation and slide deck are appropriate for the audience'
     - 'I have made a visibile effort to follow presentation best practices'
   resources:
-    - name:
-      url:
-      kind: false
+    - name: Entrepreneur
+      url: https://www.utahfutures.org/choosing/self-employment/
+      kind: career
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Google Drive: Presentation Deck'
       url:
     - name: 'Presentation Performance'
@@ -352,10 +359,9 @@
     - 'I know what electives I should take if I enjoyed this CTE Intro rotation'
     - 'I have left feedback for future students and for Mr. Hicks'
   resources:
-    - name:
-      url:
-      kind: false
   deliverables:
+    - name: Career Summary
+      url: http://http://b.socrative.com/login/student/
     - name: 'Shark Tank Activity'
       url:
   blackDiamonds:
