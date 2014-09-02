@@ -54,6 +54,9 @@
     - name: Cashier
       url: 'https://utahfutures.org/occupations/32/'
       kind: career
+    - name: Cashiering Discussion Video
+      url: https://www.dropbox.com/s/6m3zsv7wj3gruhj/cashiering.mp4?dl=0
+      kind: video
     - name: Cashiering Activity
       url: 'https://docs.google.com/spreadsheets/d/11ZCVtzTunYZ40tlN83Ds8E8WAZ1xww-N8MSVE9YsVFw/edit?usp=sharing'
       kind: link
