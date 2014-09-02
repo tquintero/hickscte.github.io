@@ -33,6 +33,7 @@ title: CTE Intro
     <ul>
       {% for resource in class.resources %}
         {% case resource.kind %}
+        {% when 'career' %}
         {% when 'tw' %}
         <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% when 'video' %}
