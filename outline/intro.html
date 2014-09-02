@@ -35,13 +35,17 @@ title: CTE Intro
         {% case resource.kind %}
         {% when 'tw' %}
         <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        {% when 'video' %}
+        <li><i class="fa fa-video-camera"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% when 'wp' %}
         <li><i class="fa fa-pencil"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% when 'link' %}
         {% if resource.url %}
         <li><i class="fa fa-link"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        {% endif %}
         {% else %}
-        <li>{{ resource.name }}</li>
+        {% if resource.url %}
+        <li><i class="fa "></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% endif %}
         {% endcase %}
       {% endfor %}
