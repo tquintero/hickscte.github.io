@@ -54,13 +54,16 @@
     - name: Cashier
       url: 'https://utahfutures.org/occupations/32/'
       kind: career
+    - name: Cashiering Activity
+      url: 'https://docs.google.com/spreadsheets/d/11ZCVtzTunYZ40tlN83Ds8E8WAZ1xww-N8MSVE9YsVFw/edit?usp=sharing'
+      kind: link
   deliverables:
     - name: Career Summary
       url: http://http://b.socrative.com/login/student/
     - name: 'Flipgrid: Count back change'
       url:
-    - name: 'Cashiering spreadsheet'
-      url:
+    - name: 'Cashiering Activity'
+      url: 'https://docs.google.com/spreadsheets/d/11ZCVtzTunYZ40tlN83Ds8E8WAZ1xww-N8MSVE9YsVFw/edit?usp=sharing'
   blackDiamonds:
     - name: 'Apply for a cashiering job at the School Store'
 
@@ -102,6 +105,8 @@
     - name: Wildcard - Find a Career That Uses a Computer
       url: https://utahfutures.org/occupations
       kind: career
+    - name: The Future of Computers - Cars
+      url: https://www.youtube.com/watch?v=TsaES--OTzM
   deliverables:
     - name: Career Summary
       url: http://http://b.socrative.com/login/student/
@@ -240,6 +245,9 @@
     - name: Statistician
       url: https://utahfutures.org/occupations/196/
       kind: career
+    - name: The Truth About Beats By Dre
+      url: https://www.youtube.com/watch?v=ZsxQxS0AdBY&feature=youtu.be
+      kind: video
   deliverables:
     - name: Career Summary
       url: http://http://b.socrative.com/login/student/
