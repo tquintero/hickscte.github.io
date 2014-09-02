@@ -23,7 +23,7 @@ title: CTE Intro
     {% for resource in class.resources %}
     {% if resource.kind == "career" %}
       <h2>Career Summary</h2>
-      <p class="message"><a href="{{ resource.url }}">{{ resource.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
+      <p class="message"><a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
     {% endif %}
     {% endfor %}
     {% endif %}
@@ -34,12 +34,12 @@ title: CTE Intro
       {% for resource in class.resources %}
         {% case resource.kind %}
         {% when 'tw' %}
-        <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% when 'wp' %}
-        <li><i class="fa fa-pencil"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        <li><i class="fa fa-pencil"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% when 'link' %}
         {% if resource.url %}
-        <li><i class="fa fa-link"></i> <a href="{{ resource.url }}">{{ resource.name }}</a></li>
+        <li><i class="fa fa-link"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
         {% else %}
         <li>{{ resource.name }}</li>
         {% endif %}
@@ -53,7 +53,7 @@ title: CTE Intro
     <ul>
       {% for deliverable in class.deliverables %}
       {% if deliverable.url %}
-      <li><a href="{{ deliverable.url }}">{{ deliverable.name }}</a></li>
+      <li><a href="{{ deliverable.url }}" target="_blank">{{ deliverable.name }}</a></li>
       {% else %}
       <li>{{ deliverable.name }}</li>
       {% endif %}
@@ -66,7 +66,7 @@ title: CTE Intro
     <ul>
       {% for blackDiamond in class.blackDiamonds %}
       {% if blackDiamond.url %}
-      <li><a href="{{ blackDiamond.url }}">{{ blackDiamond.name }}</a></li>
+      <li><a href="{{ blackDiamond.url }}" target="_blank">{{ blackDiamond.name }}</a></li>
       {% else %}
       <li>{{ blackDiamond.name }}</li>
       {% endif %}
