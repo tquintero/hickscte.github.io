@@ -8,8 +8,6 @@ standards:
   - name: 'I can clearly define and share the problem, the solution, my customer feedback, and my return on time'
 ---
 
-<p class="message">Unfortunately, we couldn't make Startup Weekend work this time around. I am working with the organizers on another event, probably in January, which you will all be invited to.</p>
-
 ### Class Outline
 
 * $5 Weekend Presentations
