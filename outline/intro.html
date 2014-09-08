@@ -19,34 +19,34 @@ title: CTE Intro
     </ol>    
     {% endif %}
 
-    {% if class.resources %}
-    {% for resource in class.resources %}
-    {% if resource.kind == "career" %}
+    {% if class.outline %}
+    {% for item in class.outline %}
+    {% if item.kind == "career" %}
       <h2>Career Summary</h2>
-      <p class="message"><a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
+      <p class="message"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
     {% endif %}
     {% endfor %}
     {% endif %}
 
-    {% if class.resources %}
-    <h2>Resources</h2>
+    {% if class.outline %}
+    <h2>Outline</h2>
     <ul>
-      {% for resource in class.resources %}
-        {% case resource.kind %}
+      {% for item in class.outline %}
+        {% case item.kind %}
         {% when 'career' %}
         {% when 'tw' %}
-        <li><i class="fa fa-clock-o"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        <li><i class="fa fa-clock-o"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
         {% when 'video' %}
-        <li><i class="fa fa-video-camera"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        <li><i class="fa fa-video-camera"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
         {% when 'wp' %}
-        <li><i class="fa fa-pencil"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        <li><i class="fa fa-pencil"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
         {% when 'link' %}
-        {% if resource.url %}
-        <li><i class="fa fa-link"></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        {% if item.url %}
+        <li><i class="fa fa-link"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
         {% endif %}
         {% else %}
-        {% if resource.url %}
-        <li><i class="fa "></i> <a href="{{ resource.url }}" target="_blank">{{ resource.name }}</a></li>
+        {% if item.url %}
+        <li><i class="fa "></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
         {% endif %}
         {% endcase %}
       {% endfor %}
