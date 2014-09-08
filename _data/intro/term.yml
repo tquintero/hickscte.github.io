@@ -5,22 +5,27 @@
     - 'I can tell you what CTE Intro is, and what the Business rotation will cover'
     - 'I can log in to the computer, Skyward, and my school Gmail account'
     - 'I will tell my parents/guardians all about this class'
-  resources:
+  outline:
     - name: Disclosure
       url:
-      kind: link
-    - name:  Welcome Discussion Deck
+      description: Read through and discuss the disclosure document.
+      tags: link
+    - name: Welcome Discussion Deck
       url:
-      kind: link
-  deliverables:
-    - name: Career Summary
-      url: http://b.socrative.com/login/student/
+      description:
+      tags: deck
+    - name: 'Interest Survey'
+      url: https://docs.google.com/a/alpinedistrict.org/spreadsheet/viewform?usp=drive_web&formkey=dG9UUlQ5S3dCeEZLUUdLYmthN0dWU2c6MQ#gid=0
+      description:
+      tags: 
+        - link
+        - turnin
     - name: 'Flipgrid: 30 Second Introduction'
       url: 
-    - name: 'Interest Survey'
-      url:
-    - name: 'Disclosure'
-      url:
+      description:
+      tags:
+        - flipgrid
+        - turnin
   blackDiamonds:
     - name: 'Interview a past student, find out what their favorite part of the Business Rotation was and share it with the class'
 
@@ -30,19 +35,24 @@
     - 'I can explain 6 personal finance principles covered in class'
     - 'I know the difference between a credit card and debit card'
     - 'I have identified what a Rich Life might mean for me, including what I am and am not willing to spend money on'
-  resources:
+  outline:
     - name: Financial Managers
       url: https://utahfutures.org/occupations/305/
-      kind: career
+      description:
+      tags:
+        - career
     - name: Credit Card Cost Sample Spreadsheet
       url: https://docs.google.com/spreadsheets/d/11Hsgg3y7wZ8fk7TUxvWzJpbugNq-ooxBiVQspq3kCjU/edit?usp=sharing
-  deliverables:
+      description:
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Which is better, credit or debit?'
       url: http://flipgrid.com/#3424cbae
+      description:
     - name: '250 word outline of a Rich Life for you in high school, what you will need to do to get it'
       url:
+      description:
   blackDiamonds:
     - name: 'Ask your parents about creating a savings or investment account, share your experience in video, presentation, or blog post'
 
@@ -50,23 +60,31 @@
   topic: Cashiering
   standards:
     - 'I can take money and count back change up to $100'
-  resources:
+  outline:
     - name: Cashier
       url: 'https://utahfutures.org/occupations/32/'
-      kind: career
+      description:
+      tags:
+        - career
     - name: Cashiering Discussion Video
       url: 'https://www.dropbox.com/s/6m3zsv7wj3gruhj/cashiering.mp4?dl=0'
-      kind: video
+      description:
+      tags:
+        - video
     - name: Cashiering Activity
       url: 'https://docs.google.com/spreadsheets/d/11ZCVtzTunYZ40tlN83Ds8E8WAZ1xww-N8MSVE9YsVFw/edit?usp=sharing'
-      kind: link
-  deliverables:
+      description:
+      tags:
+        - link
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Count back change'
       url:
+      description:
     - name: 'Cashiering Activity'
       url: 'https://docs.google.com/spreadsheets/d/11ZCVtzTunYZ40tlN83Ds8E8WAZ1xww-N8MSVE9YsVFw/edit?usp=sharing'
+      description:
   blackDiamonds:
     - name: 'Apply for a cashiering job at the School Store'
 
@@ -78,21 +96,27 @@
     - 'I have demonstrated best practices for interviews'
     - 'I filled out a job application including references'
     - 'I created a resume and reviewed it with a neighbor'
-  resources:
-    - name: Human Resources Manager
+  outline:
+    - name: Human outline Manager
       url: https://utahfutures.org/occupations/390/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Job Interview - Tell Me About Yourself'
       url:
+      description:
     - name: 'Flipgrid: Job Interview - Where do you see yourself in 5 years?'
       url:
+      description:
     - name: 'Flipgrid: Job Interview - What is your greatest weakness?'
       url:
+      description:
     - name: 'Job application for school store'
       url:
+      description:
   blackDiamonds:
     - name: 'Apply for an actual job, share your experience in video, presentation, or blog post'
 
@@ -104,21 +128,27 @@
     - 'I can describe how the Internet works as a giant network'
     - 'I can describe the difference between hardware and software'
     - 'I know how to use advanced Google Search features'
-  resources:
+  outline:
     - name: Wildcard - Find a Career That Uses a Computer
       url: https://utahfutures.org/occupations
-      kind: career
+      description:
+      tags:
+        - career
     - name: The Future of Computers - Cars
       url: https://www.youtube.com/watch?v=TsaES--OTzM
-  deliverables:
+      description:
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Describe what is most exciting about future of computing'
       url:
+      description:
     - name: 'Flipgrid: Describe your geocaching experience'
       url:
+      description:
     - name: 'E-mail photo of you at the geocache'
       url:
+      description:
   blackDiamonds:
     - name: 'Build a working computer from parts'
     - name: 'Install a new operating system on a Raspberry Pi'
@@ -129,15 +159,18 @@
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
-  resources:
+  outline:
     - name: Computer Programmer
       url: https://utahfutures.org/occupations/45/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Code.org Activity 1-10'
       url:
+      description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
@@ -147,15 +180,18 @@
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
-  resources:
+  outline:
     - name: Computer Engineers
       url: https://utahfutures.org/occupations/44/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Code.org Activity 1-10'
       url:
+      description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
@@ -165,15 +201,18 @@
     - 'I have experience with basic computer programming logic'
     - 'I understand the use of if statements, if-else statements, and repeating blocks'
     - 'I have defined and used a function'
-  resources:
+  outline:
     - name: Video Game Designer
       url: https://utahfutures.org/occupations/535/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Code.org Activity 1-10'
       url:
+      description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
@@ -183,17 +222,21 @@
     - 'I can describe the pros and cons of Microsoft Word, Apple Pages, and Google Docs'
     - 'I can create and save documents in Google Drive'
     - 'I have used basic word processing features like: titles, headings, bold, italics, highlights, headers, footers, cut, copy, paste, spell check, and word count'
-  resources:
+  outline:
     - name: Writer (Copy Writer)
       url: https://utahfutures.org/occupations/468/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Word Processing: Line/Font Google Doc'
       url:
+      description:
     - name: 'Word Processing: Copy/Paste Google Doc'
       url:
+      description:
   blackDiamonds:
     - name: 'Convert an essay to use consistent titles and headers. Change the title and header styles for the entire document.'
 
@@ -204,15 +247,18 @@
     - 'I can enter data into a collaborative spreadsheet'
     - 'I can use Sum, Max, Min, Average functions'
     - 'I can format the document with colors, text sizes, titles, and charts'
-  resources:
+  outline:
     - name: Accountant
       url: https://utahfutures.org/occupations/1/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Spreadsheets: Skittle Count Google Sheet'
       url:
+      description:
   blackDiamonds:
     - name: 'Create a spreadsheet to calculate your grades for 3 classes using correct category weights and assignment scores'
 
@@ -223,17 +269,21 @@
     - 'I can describe product design'
     - 'I have designed a product for a specific target market'
     - 'I am familiar with outsourcing, and the concept of the flat world'
-  resources:
+  outline:
     - name: Industrial Designer
       url: https://utahfutures.org/occupations/41/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Why you chose your target market and design'
       url:
+      description:
     - name: 'Google Form: Link to TeeSpring campaign'
       url:
+      description:
   blackDiamonds:
     - name: 'Meet your t-shirt sales goal'
     - name: 'Conduct 10 customer interviews to help decide what will be the most successful shirt, share your experience in video, presentation, or blog post'
@@ -244,22 +294,29 @@
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can define scarcity, supply, and demand and describe how they effect price'
     - 'I am familiar with different things companies do to reduce prices, and the pros and cons of those choices'
-  resources:
+  outline:
     - name: Statistician
       url: https://utahfutures.org/occupations/196/
-      kind: career
+      description:
+      tags:
+        - career
     - name: The Truth About Beats By Dre
       url: https://www.youtube.com/watch?v=ZsxQxS0AdBY&feature=youtu.be
-      kind: video
-  deliverables:
+      description:
+      tags:
+        - video
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Give a real world example of a price changing because of supply and demand'
       url:
+      description:
     - name: 'Flipgrid: What are the downsides to ever-lower prices?'
       url:
+      description:
     - name: 'Google Doc: 100 words. Defend your price point for your t-shirt.'
       url:
+      description:
   blackDiamonds:
     - name: 'Meet your t-shirt sales goal'
     - name: 'Conduct a pricing research project for the vending machines or school store, share your experience in video, presentation, or blog post'
@@ -271,17 +328,21 @@
     - 'I can define demographic, target market, and segmenting'
     - 'I can identify marketing strategies used in brick and mortor retail stores'
     - 'I can identify marketing strategies used online'
-  resources:
+  outline:
     - name: Retail Buyer and Purchasing Agents
       url: https://utahfutures.org/occupations/254/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: What are three marketing strategies used in brick and morter retail stores?'
       url:
+      description:
     - name: 'Flipgrid: 60 seconds. Describe how you feel about online tracking, native advertising'
       url:
+      description:
   blackDiamonds:
     - name: 'Interview a manager/employee of a supermarket or retail store to learn more about the strategies used to increase sales, share your experience in video, presentation, or blog post'
 
@@ -291,17 +352,21 @@
     - 'I know and understand the Four Ps of Marketing: product, price, platform, promotion'
     - 'I can identify aspects of a good promotion and a poor promotion'
     - 'I am familiar with some basic TV, radio, outdoor, print, web, native, and viral promotion strategies'
-  resources:
+  outline:
     - name: Advertising Managers
       url: https://utahfutures.org/occupations/5/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: Describe the 4Ps to a new student'
       url:
+      description:
     - name: 'Google Doc: 250 word analysis of your favorite commercial'
       url:
+      description:
   blackDiamonds:
     - name: 'Create an impactful 30-60s commercial for a product for the school store, an elective, or a club at the school'
     - name: 'Design a professional looking poster for a product for the school store, an elective, or a club at the school'
@@ -311,15 +376,18 @@
   standards:
     - 'I can identify and discuss positive presentation strategies: planning, knowing content, confidence, appropriate for audience/context'
     - 'I can identify and discuss presentation mistakes: posture, slides as script, filler words, no preparation'
-  resources:
+  outline:
     - name: Business Executives (CEO)
       url: https://utahfutures.org/occupations/253/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Flipgrid: What makes a great presentation?'
       url:
+      description:
   blackDiamonds:
     - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
@@ -329,17 +397,21 @@
     - 'I can outline and prepare a presentation'
     - 'I can use Google Presentations to make a compelling slide deck'
     - 'I understand that practice makes a good presentation better'
-  resources:
+  outline:
     - name: Sales Representative
       url: https://utahfutures.org/occupations/183/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Google Doc: Presentation outline.'
       url:
+      description:
     - name: 'Google Drive: Video of presentation practice'
       url:
+      description:
   blackDiamonds:
     - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
@@ -348,19 +420,24 @@
   standards:
     - 'My presentation and slide deck are appropriate for the audience'
     - 'I have made a visibile effort to follow presentation best practices'
-  resources:
+  outline:
     - name: Entrepreneur
       url: https://www.utahfutures.org/choosing/self-employment/
-      kind: career
-  deliverables:
+      description:
+      tags:
+        - career
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Google Drive: Presentation Deck'
       url:
+      description:
     - name: 'Presentation Performance'
       url:
+      description:
     - name: 'Google Form: Peer rating form'
       url:
+      description:
   blackDiamonds:
     - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
 
@@ -369,11 +446,12 @@
   standards:
     - 'I know what electives I should take if I enjoyed this CTE Intro rotation'
     - 'I have left feedback for future students and for Mr. Hicks'
-  resources:
-  deliverables:
+  outline:
     - name: Career Summary
       url: http://b.socrative.com/login/student/
+      description:
     - name: 'Shark Tank Activity'
       url:
+      description:
   blackDiamonds:
     - name: 'Sign up for Teen Entrepreneurship'
