@@ -105,6 +105,12 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: Getting a Job Discussion Deck
+      url: https://dl.dropboxusercontent.com/u/74616/intro/tresx%20get%20a%20job%20discussion%20deck/index.html
+      description:
+      tags:
+        - link
+        - deck
     - name: 'Flipgrid: Job Interview - Tell Me About Yourself'
       url:
       description:
