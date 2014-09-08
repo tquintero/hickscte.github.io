@@ -97,7 +97,7 @@
     - 'I filled out a job application including references'
     - 'I created a resume and reviewed it with a neighbor'
   outline:
-    - name: Human outline Manager
+    - name: Human Resources Manager
       url: https://utahfutures.org/occupations/390/
       description:
       tags:
@@ -115,8 +115,10 @@
       url:
       description:
     - name: 'Job application for school store'
-      url:
+      url: https://docs.google.com/a/alpinedistrict.org/forms/d/1eGli4bmNbCJcpeD9xZF2qtukNSej6Ts6jS25BJEYdyo/viewform
       description:
+      tags:
+        - link
   blackDiamonds:
     - name: 'Apply for an actual job, share your experience in video, presentation, or blog post'
 
