@@ -20,14 +20,14 @@ title: CTE Intro
     {% endif %}
 
     {% if class.outline %}
-    {% for item in class.outline %}
-    {% for tag in item.tags %}
-    {% if tag == "career" %}
-      <h2>Career Summary</h2>
-      <p class="message"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
+      {% for item in class.outline %}
+        {% for tag in item.tags %}
+          {% if tag == "career" %}
+            <h2>Career Summary</h2>
+            <p class="message"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
     {% endif %}
 
     {% if class.outline %}
@@ -41,23 +41,10 @@ title: CTE Intro
         {% when 'career' %}
         {% when 'video' %} <i class="fa fa-video-camera"></i>
         {% when 'link' %} <i class="fa fa-link"></i>
-        {% endcase %}
+      {% endcase %}
       </li>
       {% else %}
       <li>{{ item.name }}</li>
-      {% endif %}
-      {% endfor %}
-    </ul>
-    {% endif %}
-
-    {% if class.deliverables %}
-    <h2>Deliverables</h2>
-    <ul>
-      {% for deliverable in class.deliverables %}
-      {% if deliverable.url %}
-      <li><a href="{{ deliverable.url }}" target="_blank">{{ deliverable.name }}</a></li>
-      {% else %}
-      <li>{{ deliverable.name }}</li>
       {% endif %}
       {% endfor %}
     </ul>
