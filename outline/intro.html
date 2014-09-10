@@ -34,20 +34,18 @@ title: CTE Intro
     <h2>Outline</h2>
     <ul>
       {% for item in class.outline %}
-        {% case item.tags %}
+      {% if item.url %}
+      <li><a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+      {% for tag in item.tags %}
+      {% case tag %}
         {% when 'career' %}
-        {% when 'tw' %}
-        <li><i class="fa fa-clock-o"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
-        {% when 'video' %}
-        <li><i class="fa fa-video-camera"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
-        {% when 'wp' %}
-        <li><i class="fa fa-pencil"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
-        {% when 'link' %}
-        {% else %}
-        {% if item.url %}
-        <li><i class="fa fa-link"></i> <a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
-        {% endif %}
+        {% when 'video'} <i class="fa fa-video-camera"></i>
+        {% when 'link'} <i class="fa fa-link"></i>
         {% endcase %}
+      </li>
+      {% else %}
+      <li>{{ item.name }}</li>
+      {% endif %}
       {% endfor %}
     </ul>
     {% endif %}
