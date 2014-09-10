@@ -21,10 +21,12 @@ title: CTE Intro
 
     {% if class.outline %}
     {% for item in class.outline %}
-    {% if item.tags == "career" %}
+    {% for tag in item.tags %}
+    {% if tag == "career" %}
       <h2>Career Summary</h2>
       <p class="message"><a href="{{ item.url }}" target="_blank">{{ item.name }}</a> - <a href="http://b.socrative.com/login/student/">Socrative Form</a></p>
     {% endif %}
+    {% endfor %}
     {% endfor %}
     {% endif %}
 
