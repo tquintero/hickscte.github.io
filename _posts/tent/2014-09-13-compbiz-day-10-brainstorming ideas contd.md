@@ -33,7 +33,11 @@ Choose one of the following problems and brainstorm 20 ways to solve it. 10 good
 
 Write down the best ideas on a piece of paper. Write down the worst ideas on a separate piece of paper.
 
-Switch ideas! Refine them! Quick presentations!
+#### Switch Problems
+
+You will switch randomly with another group in class. You will prepare a 4 minute presentation based on their bank of ideas. The presentation will be pitched to Mr. Perkins.
+
+Here's the twist. You have to present on the ideas highlighted in Red. Refine those ideas to be great. Think outside the box. Make the ideas yours. Modify them as you need to make them appropriate for the presentation.
 
 <p class="message">The purpose of this activity is to recognize that even bad ideas can be turned into good ones. When we are at this early brainstorming phase, it's important not to censor out ideas just because they sound a little crazy. We'll edit our lists later!</p>
 
