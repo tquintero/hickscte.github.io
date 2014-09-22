@@ -240,11 +240,11 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Word Processing: Line/Font Google Doc'
-      url:
-      description:
+      url: https://docs.google.com/document/d/1dVSMqNA0ozMrxFj-hZn6KihaRX8-OhFKrD_R_arby_w/edit?usp=sharing
+      description: Follow the instructions in the document. You will update the formatting of the document to learn about the Word Processing features of Google Drive.
     - name: 'Word Processing: Copy/Paste Google Doc'
-      url:
-      description:
+      url: https://docs.google.com/a/alpinedistrict.org/document/d/19rzIS9ARASv4lvsRIan8w0-0SfldpZ83_smFInrR29w/edit
+      description: Follow the instructions in the document. You will update the formatting of the document to learn about the Word Processing features of Google Drive.
   blackDiamonds:
     - name: 'Convert an essay to use consistent titles and headers. Change the title and header styles for the entire document.'
 
