@@ -12,6 +12,7 @@ standards:
 
 * Review refined idea lists
 * Customer Interview discussion
+* How to Upload Your Videos to Google Drive
 
 ### What Should Be Ready Today
 
@@ -76,3 +77,13 @@ Practice asking your questions with a neighbor. You will be interviewing at leas
 #### Schedule Your 5 Interviews
 
 You may pull out your phones or start e-mailing people to schedule your interviews.
+
+### Uploading Your Interview Videos to Google Drive
+
+Use the following guides from Google to upload your videos from your devices:
+
+1. [Upload videos from an iOS Device (iPhone, iPod, iPad)](https://support.google.com/drive/answer/2763076?hl=en) 
+2. [Upload videos from an Android Device (Android, Samsung, Kindle)](https://support.google.com/drive/answer/2763724?hl=en)
+3. To upload from a regular camera, plug in the camera to a computer and drag and drop the file into your Google Drive account on the web
+
+Share the files with Mr. Hicks
