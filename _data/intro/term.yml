@@ -290,8 +290,8 @@
       url:
       description:
     - name: 'Google Form: Link to TeeSpring campaign'
-      url:
-      description:
+      url: https://docs.google.com/forms/d/1xfQbvupVjyaOaSlHGe6w_q-HAaQsrnjdC8cMMfV9-ug/viewform?usp=send_form
+      description: Submit your TeeSpring campaign idea using this Google Form.
   blackDiamonds:
     - name: 'Meet your t-shirt sales goal'
     - name: 'Conduct 10 customer interviews to help decide what will be the most successful shirt, share your experience in video, presentation, or blog post'
