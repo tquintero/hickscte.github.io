@@ -264,6 +264,10 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: 'Video: Introduction to Spreadsheets'
+      url: https://www.dropbox.com/s/u1sfin4ha5xcyxp/cte%20intro%20spreadsheets.mp4?dl=0
+      tags:
+        - video
     - name: 'Spreadsheets: Sample Collaborative Worksheet'
       url:  https://docs.google.com/spreadsheets/d/1niO7pdRqNymqzD1OhUeK6oiuqaBxxvRk9dZtL0nYtZc/edit?usp=sharing
     - name: 'Spreadsheets: Skittle Count Google Sheet'
