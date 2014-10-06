@@ -265,7 +265,7 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Spreadsheets: Skittle Count Google Sheet'
-      url:
+      url: https://docs.google.com/a/alpinedistrict.org/spreadsheet/ccc?key=0Asd7qFdFXJiOdEFsUTFnSHhITlZBSHM5YmZzNExLdFE&usp=drive_web#gid=0
       description:
   blackDiamonds:
     - name: 'Create a spreadsheet to calculate your grades for 3 classes using correct category weights and assignment scores'
