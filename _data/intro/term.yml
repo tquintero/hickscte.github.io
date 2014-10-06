@@ -264,6 +264,8 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: 'Spreadsheets: Sample Collaborative Worksheet'
+      url:  https://docs.google.com/spreadsheets/d/1niO7pdRqNymqzD1OhUeK6oiuqaBxxvRk9dZtL0nYtZc/edit?usp=sharing
     - name: 'Spreadsheets: Skittle Count Google Sheet'
       url: https://docs.google.com/a/alpinedistrict.org/spreadsheet/ccc?key=0Asd7qFdFXJiOdEFsUTFnSHhITlZBSHM5YmZzNExLdFE&usp=drive_web#gid=0
       description:
