@@ -30,7 +30,7 @@ Let's walk through an example.
 
 Here is an overview of a Lean Canvas poster by a group in one of our classes.
 
-<div class = "message">
+<div class = "message" markdown="1">
 #### Problem
 - people need clean windows
 - please don't have time
@@ -86,7 +86,7 @@ I've identified 5 assumptions to test. Here they are:
 
 How can I test each one of those assumptions with measureable results? Let's brainstorm a few ideas:
 
-<div class="message">
+<div class="message" markdown="1">
 #### Potential customers don't know that window washers are reliable and affordable
 - Create a survey asking people if they know about window washer options.
 - Ask 10 neighbors if they knew that there were reliable, cheap window washing options.
