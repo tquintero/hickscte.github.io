@@ -94,7 +94,7 @@ How can I test each one of those assumptions with measureable results? Let's bra
 #### We can provide a reliable service
 - Do the service for free for 3 people, get customer feedback on what could go better [^1]
 
-[^1] this would prove 3 things, that your group will actually meet together to provide the service, that people are willing to have the service done, and that you can do the service reliably, otherwise you will get feedback to improve your service.
+[^1]: This would prove 3 things, that your group will actually meet together to provide the service, that people are willing to have the service done, and that you can do the service reliably, otherwise you will get feedback to improve your service.
 
 #### We can use school project as a hook for customers
 - Talk to 20 potential customers (neighbors), mention the school project with 10 of them, don't mention the school project to the other 10, measure the interest level of each group and see if school project makes a meaningful difference.
