@@ -10,8 +10,9 @@ standards:
 
 ### Class Outline
 
-* The Lean Canvas
-* Business Model Generation
+* Testing Your Assumptions Discussion
+* Example
+* Design Your Tests
 
 ### What Should Be Ready Today
 
