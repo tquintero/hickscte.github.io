@@ -20,7 +20,7 @@ author:
   name:           'Caleb Hicks'
   url:            https://hickscte.com
 
-paginate:         1
+paginate:         3
 
 # Custom vars
 version:          .9
