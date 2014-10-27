@@ -7,9 +7,9 @@
     - 'I will tell my parents/guardians all about this class'
   outline:
     - name: Middle School Teacher
-    url: https://utahfutures.org/occupations/501/
-    description:
-    tags:
+      url: https://utahfutures.org/occupations/501/
+      description:
+      tags:
       - career
     - name: Disclosure
       url:
