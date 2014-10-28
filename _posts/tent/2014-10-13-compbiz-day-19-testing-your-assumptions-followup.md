@@ -19,7 +19,12 @@ standards:
 
 Enter your experiment results into your Google Doc you prepared last time.
 
-Each group will give a 4-5 minute presentation describing each assumption (hypothesis), experiment, and results. You do not need a slide deck, just present off of your Doc.
+Each group will give a 4-5 minute presentation describing each assumption (hypothesis), experiment, and results. Slide decks should consist of the following:
+
+Slide 1: Your Assumption
+Slide 2: How you tested your assumption
+Slide 3: Evidence that you did the test (video, photos)
+Slide 4: Conclusion
 
 Presentations will be graded on the following:
 
