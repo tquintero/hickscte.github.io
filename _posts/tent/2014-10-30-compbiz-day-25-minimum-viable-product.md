@@ -14,7 +14,9 @@ standards:
 
 ### What Should Be Ready Today
 
-1. You should be working on your [second set of assumptions](https://docs.google.com/presentation/d/11hF-a_kwLMlW03-whRInM-rSOEuWuAyq1JjHT11GVBY/edit?usp=sharing). First assumption presentation due midnight tomorrow. Your second assumption (due next week) should be based on a version of your Minimum Viable Product.
+1. You should be working on your second set of assumptions. First assumption presentation due midnight tomorrow. Your second assumption (due next week) should be based on a version of your Minimum Viable Product.
+
+[Click here for a sample presentation](https://docs.google.com/presentation/d/11hF-a_kwLMlW03-whRInM-rSOEuWuAyq1JjHT11GVBY/edit?usp=sharing).
 
 ### What is a Minimum Viable Product?
 
