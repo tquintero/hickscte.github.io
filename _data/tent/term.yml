@@ -1,13 +1,56 @@
 - class: 1
   topic: Welcome and Orientation
   standards:
-    - ''
+    - 'I know more about Mr. Hicks and my classmates'
+    - 'I can tell you what Exploring Business and Marketing is, and what we will cover'
+    - 'I can log in to the computer, Skyward, and my school Gmail account'
+    - 'I will tell my parents/guardians all about this class'
   resources:
-    - name:
+    - name: Introduction Discussion Deck
       url:
+      description:
+      kind: 
+    - name: Word Cloud Introductions
+      url: http://www.jasondavies.com/wordcloud/
+      description: 'Create a Word Cloud, save a copy of the image to your desktop to put into the Teen Entrepreneurs Word Cloud Deck'
+    - name: Teen Entrepreneurs Word Cloud Deck
+      url:
+      description: 'Create an individual slide, import the image if your Word Cloud to the background of your slide'
+      kind: link
+    - name: Disclosure Document
+      url: 
+      description: Bring a signed copy of the disclosure document to class next time
+      kind: link
+  deliverables:
+    - name: Individual slide in class word cloud deck
+    - name: Disclosure Document
+    - name: Interest Survey
+      url: https://docs.google.com/forms/d/1lhAE30IivP3QwkiffBaGnrRUJDZmEMBGCbhtwPN8z6k/viewform?usp=send_form
+      description: 'Fill out this Interest Survey to let Mr. Hicks know a little bit more about you'
+    - name: Featured Business Essay
+      url: insert url for google drive instructions
+      description: 'Visit the Google Doc for instructions and a sample essay.'
+  blackDiamonds:
+    - ''
+
+- class: 2
+  topic: Business Ownership and Basics
+  standards:
+    - 'I can identify and describe the pros and cons of sole proprietorships, partnerships, and corporations'
+    - 'I can define the following words: profit, non-profit, scarcity, demand, supply, opportunity cost'
+  resources:
+    - name: Business Basics Discussion Deck
+      url:
+      description: Create a Google Document to keep notes on unfamiliar terminology
       kind: 
   deliverables:
-    - name: 
+    - name: Flipgrid Describe the biggest benefit and downside of a corporation
       url: 
+      description:
+    - name: Mastery Connect Exit Quiz
+      url: 
+      description:
   blackDiamonds:
-    - name: ''
+    - 'Create a 2-3 minute video detailing the differences between sole proprietorship, partnership, and corporation'
+    - 'Create a 2-3 minute video defining profit, non-profit, scarcity, demand, supply, and opportunity cost'
+
