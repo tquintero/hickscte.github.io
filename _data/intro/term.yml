@@ -85,7 +85,7 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Flipgrid: Count back change'
-      url:
+      url: http://flipgrid.com/#9ff2a298
       description:
     - name: 'Cashiering Activity'
       url: 'https://docs.google.com/spreadsheets/d/11ZCVtzTunYZ40tlN83Ds8E8WAZ1xww-N8MSVE9YsVFw/edit?usp=sharing'
@@ -117,13 +117,13 @@
         - link
         - deck
     - name: 'Flipgrid: Job Interview - Tell Me About Yourself'
-      url:
+      url: http://flipgrid.com/#5c8ea8eb
       description:
     - name: 'Flipgrid: Job Interview - Where do you see yourself in 5 years?'
-      url:
+      url: http://flipgrid.com/#8f07973a
       description:
     - name: 'Flipgrid: Job Interview - What is your greatest weakness?'
-      url:
+      url: http://flipgrid.com/#490052e5
       description:
     - name: 'Job application for school store'
       url: https://docs.google.com/a/alpinedistrict.org/forms/d/1eGli4bmNbCJcpeD9xZF2qtukNSej6Ts6jS25BJEYdyo/viewform
@@ -154,13 +154,13 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Flipgrid: Describe what is most exciting about future of computing'
-      url:
+      url: http://flipgrid.com/#78b2a227
       description:
     - name: 'Flipgrid: Describe your geocaching experience'
-      url:
+      url: http://flipgrid.com/#df7b7b89
       description:
-    - name: 'E-mail photo of you at the geocache'
-      url:
+    - name: 'Share photo of you at the geocache on Google Drive'
+      url: 
       description:
   blackDiamonds:
     - name: 'Build a working computer from parts'
