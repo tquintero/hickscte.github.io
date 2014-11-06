@@ -112,6 +112,9 @@
     - name: 'Code.org Activity 1-10'
       url: http://studio.code.org/sections/XTNLZV
       description:
+    - name: 'Code.org Logins'
+      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+      description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
@@ -133,6 +136,9 @@
     - name: 'Code.org Activity 1-10'
       url: http://studio.code.org/sections/XTNLZV
       description:
+    - name: 'Code.org Logins'
+      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+      description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
 
@@ -153,6 +159,9 @@
       description:
     - name: 'Code.org Activity 1-10'
       url: http://studio.code.org/sections/XTNLZV
+      description:
+    - name: 'Code.org Logins'
+      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
       description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
