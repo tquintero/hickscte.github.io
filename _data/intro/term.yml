@@ -110,7 +110,7 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Code.org Activity 1-10'
-      url:
+      url: http://studio.code.org/sections/XTNLZV
       description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
@@ -131,7 +131,7 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Code.org Activity 1-10'
-      url:
+      url: http://studio.code.org/sections/XTNLZV
       description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
@@ -152,7 +152,7 @@
       url: http://b.socrative.com/login/student/
       description:
     - name: 'Code.org Activity 1-10'
-      url:
+      url: http://studio.code.org/sections/XTNLZV
       description:
   blackDiamonds:
     - name: 'Finish the Code.org K-8 curriculum'
@@ -229,7 +229,7 @@
   blackDiamonds:
     - name: 'Build a working computer from parts'
     - name: 'Install a new operating system on a Raspberry Pi'
-    
+
 - class: 9
   topic: Word Processing
   standards:
