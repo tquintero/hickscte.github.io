@@ -6,14 +6,25 @@ standards:
 ---
 
 Tyler Allred 
+
 Cam Cooper 
+
 Will Dennison 
+
 Klayton Driggs 
+
 Bridger Evans 
+
 Spencer Kimball 
+
 Tyler McClellan 
+
 Jared Meek 
+
 Cade Moore 
+
 Will Overstreet 
+
 Colby Samuels 
+
 Josh Taufer 
