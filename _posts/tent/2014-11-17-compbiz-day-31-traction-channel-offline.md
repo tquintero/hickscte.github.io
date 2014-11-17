@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teen Entrepreneurship: PR and Social Traction Channels'
+title: 'Teen Entrepreneurship: Offline Advertising and Desktop Publishing'
 course: tent
 standards:
   - name: 'I can describe the uses and purposes of offline advertising.'
