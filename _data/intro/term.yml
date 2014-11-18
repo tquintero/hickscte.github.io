@@ -93,79 +93,6 @@
   blackDiamonds:
     - name: 'Apply for a cashiering job at the School Store'
 
-
-- class: 6
-  topic: Computer Programming
-  standards:
-    - 'I have experience with basic computer programming logic'
-    - 'I understand the use of if statements, if-else statements, and repeating blocks'
-    - 'I have defined and used a function'
-  outline:
-    - name: Computer Programmer
-      url: https://utahfutures.org/occupations/45/
-      description:
-      tags:
-        - career
-    - name: Career Summary
-      url: http://b.socrative.com/login/student/
-      description:
-    - name: 'Code.org Activity 1-10'
-      url: http://studio.code.org/sections/XTNLZV
-      description:
-    - name: 'Code.org Logins'
-      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
-      description:
-  blackDiamonds:
-    - name: 'Finish the Code.org K-8 curriculum'
-
-- class: 7
-  topic: Computer Programming
-  standards:
-    - 'I have experience with basic computer programming logic'
-    - 'I understand the use of if statements, if-else statements, and repeating blocks'
-    - 'I have defined and used a function'
-  outline:
-    - name: Computer Engineers
-      url: https://utahfutures.org/occupations/44/
-      description:
-      tags:
-        - career
-    - name: Career Summary
-      url: http://b.socrative.com/login/student/
-      description:
-    - name: 'Code.org Activity 1-10'
-      url: http://studio.code.org/sections/XTNLZV
-      description:
-    - name: 'Code.org Logins'
-      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
-      description:
-  blackDiamonds:
-    - name: 'Finish the Code.org K-8 curriculum'
-
-- class: 8
-  topic: Computer Programming
-  standards:
-    - 'I have experience with basic computer programming logic'
-    - 'I understand the use of if statements, if-else statements, and repeating blocks'
-    - 'I have defined and used a function'
-  outline:
-    - name: Video Game Designer
-      url: https://utahfutures.org/occupations/535/
-      description:
-      tags:
-        - career
-    - name: Career Summary
-      url: http://b.socrative.com/login/student/
-      description:
-    - name: 'Code.org Activity 1-10'
-      url: http://studio.code.org/sections/XTNLZV
-      description:
-    - name: 'Code.org Logins'
-      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
-      description:
-  blackDiamonds:
-    - name: 'Finish the Code.org K-8 curriculum'
-
 - class: 4
   topic: Getting a Job
   standards:
@@ -238,6 +165,78 @@
   blackDiamonds:
     - name: 'Build a working computer from parts'
     - name: 'Install a new operating system on a Raspberry Pi'
+
+- class: 6
+  topic: Computer Programming
+  standards:
+    - 'I have experience with basic computer programming logic'
+    - 'I understand the use of if statements, if-else statements, and repeating blocks'
+    - 'I have defined and used a function'
+  outline:
+    - name: Computer Programmer
+      url: https://utahfutures.org/occupations/45/
+      description:
+      tags:
+        - career
+    - name: Career Summary
+      url: http://b.socrative.com/login/student/
+      description:
+    - name: 'Code.org Activity 1-10'
+      url: http://studio.code.org/sections/XTNLZV
+      description:
+    - name: 'Code.org Logins'
+      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+      description:
+  blackDiamonds:
+    - name: 'Finish the Code.org K-8 curriculum'
+
+- class: 7
+  topic: Computer Programming
+  standards:
+    - 'I have experience with basic computer programming logic'
+    - 'I understand the use of if statements, if-else statements, and repeating blocks'
+    - 'I have defined and used a function'
+  outline:
+    - name: Computer Engineers
+      url: https://utahfutures.org/occupations/44/
+      description:
+      tags:
+        - career
+    - name: Career Summary
+      url: http://b.socrative.com/login/student/
+      description:
+    - name: 'Code.org Activity 1-10'
+      url: http://studio.code.org/sections/XTNLZV
+      description:
+    - name: 'Code.org Logins'
+      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+      description:
+  blackDiamonds:
+    - name: 'Finish the Code.org K-8 curriculum'
+
+- class: 8
+  topic: Computer Programming
+  standards:
+    - 'I have experience with basic computer programming logic'
+    - 'I understand the use of if statements, if-else statements, and repeating blocks'
+    - 'I have defined and used a function'
+  outline:
+    - name: Video Game Designer
+      url: https://utahfutures.org/occupations/535/
+      description:
+      tags:
+        - career
+    - name: Career Summary
+      url: http://b.socrative.com/login/student/
+      description:
+    - name: 'Code.org Activity 1-10'
+      url: http://studio.code.org/sections/XTNLZV
+      description:
+    - name: 'Code.org Logins'
+      url: https://dl.dropboxusercontent.com/u/74616/intro/code%20logins.pdf
+      description:
+  blackDiamonds:
+    - name: 'Finish the Code.org K-8 curriculum'
 
 - class: 9
   topic: Word Processing
