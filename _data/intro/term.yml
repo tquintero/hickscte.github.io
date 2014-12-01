@@ -253,6 +253,9 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: Word Processing Discussion Video
+      url: https://www.dropbox.com/s/wd6x9yfz4ml2g5j/cte%20intro%20word%20processing%20video.mp4?dl=0
+      description: Overview of Word Processing and the assignments for this unit.
     - name: 'Word Processing: Line/Font Google Doc'
       url: https://docs.google.com/document/d/1dVSMqNA0ozMrxFj-hZn6KihaRX8-OhFKrD_R_arby_w/edit?usp=sharing
       description: Follow the instructions in the document. You will update the formatting of the document to learn about the Word Processing features of Google Drive.
