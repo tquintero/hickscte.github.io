@@ -26,3 +26,5 @@ Mr. Hicks will assign you a group to consult with. Have someone from that group 
 ### Make Changes
 
 Mr. Hicks will give you the feedback your group received. Take it and apply it before Mr. Hicks looks at your document and efforts to build traction.
+
+Review your feedback looking at the [feedback overview spreadsheet](https://docs.google.com/spreadsheets/d/1g03r5UsVwr5fsMqO_Y9kLIHsQpHG7NWLEulPTwPXcpo/edit?usp=sharing)
