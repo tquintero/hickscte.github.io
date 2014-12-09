@@ -339,6 +339,11 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: Intro to TeeSpring
+      url: https://www.dropbox.com/s/75ld7sictw8fo9w/cte%20teespring.mp4?dl=0
+      description:
+      tags:
+        - video
     - name: 'Flipgrid: Give a real world example of a price changing because of supply and demand'
       url: http://flipgrid.com/#d84bc26e
       description:
