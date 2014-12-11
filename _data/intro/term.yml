@@ -376,6 +376,11 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: Marketing Platform Discussion Video
+      url: https://www.dropbox.com/s/90u5kf1l72fiumi/cte%20marketing%20platform.mp4?dl=0
+      description:
+      tags:
+        - video
     - name: 'Flipgrid: What are three marketing strategies used in brick and morter retail stores?'
       url: http://flipgrid.com/#af33e38e
       description:
