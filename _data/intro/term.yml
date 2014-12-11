@@ -353,6 +353,9 @@
     - name: 'Google Doc: 100 words. Defend your price point for your t-shirt.'
       url:
       description:
+    - name: 'Google Form: Link to TeeSpring campaign'
+      url: https://docs.google.com/forms/d/1xfQbvupVjyaOaSlHGe6w_q-HAaQsrnjdC8cMMfV9-ug/viewform?usp=send_form
+      description: Submit your TeeSpring campaign idea using this Google Form.
   blackDiamonds:
     - name: 'Meet your t-shirt sales goal'
     - name: 'Conduct a pricing research project for the vending machines or school store, share your experience in video, presentation, or blog post'
@@ -379,6 +382,9 @@
     - name: 'Flipgrid: 60 seconds. Describe how you feel about online tracking, native advertising'
       url: http://flipgrid.com/#830fdcce
       description:
+    - name: 'Google Form: Link to TeeSpring campaign'
+      url: https://docs.google.com/forms/d/1xfQbvupVjyaOaSlHGe6w_q-HAaQsrnjdC8cMMfV9-ug/viewform?usp=send_form
+      description: Submit your TeeSpring campaign idea using this Google Form.
   blackDiamonds:
     - name: 'Interview a manager/employee of a supermarket or retail store to learn more about the strategies used to increase sales, share your experience in video, presentation, or blog post'
 
