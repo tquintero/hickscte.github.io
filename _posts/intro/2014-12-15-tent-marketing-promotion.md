@@ -16,12 +16,12 @@ We've talked about Product, Price, and Platform. In your rows discuss and review
 
 ## Promotion
 
-Promotion is how you get your target market interested in your product.
+Promotion is how you get your target market interested in your product. 
 
-Key terms:
-- Message: What the advertiser wants the potential customer to feel or do after viewing or hearing the promotion.
-- Target demographic: The ideal market segments that the marketer is trying to reach with their promotion.
-- Call to Action: What the promotion tells the customer to do after watching it (Call now! Go to our website! etc.)
+Key terms: 
+- Message: What the advertiser wants the potential customer to feel or do after viewing or hearing the promotion. 
+- Target demographic: The ideal market segments that the marketer is trying to reach with their promotion. 
+- Call to Action: What the promotion tells the customer to do after watching it (Call now! Go to our website! etc.) 
 
 Great promotions grab *attention*, create *interest* and *desire*, and have a call to *action*.
 
