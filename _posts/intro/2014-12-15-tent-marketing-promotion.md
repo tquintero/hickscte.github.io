@@ -65,7 +65,7 @@ Outdoor advertisements, especially billboards, need to grab attention and quickl
 
 Choose 5 videos. Discuss in your rows the following questions for each:
 
-1. What does the advertisement want you to think or feel after watching the video? (It's more than just 'Go buy it!')
+1. What does the advertisement want you to think or feel after seeing it? (It's more than just 'Go buy it!')
 2. Who is the target market for this advertisement and product?
 3. Is the promotion a good fit for the target market? 
 
@@ -115,3 +115,13 @@ Choose 2 videos. Discuss in your rows the following questions for each:
 
 ## Conclusion and Application
 
+As you've looked through these advertisements, which have you liked? Why? Which have you disliked? Why?
+
+How can you apply this to your TeeSpring campaigns?
+
+Answer the following FlipGrid questions.
+
+* [Video Promotion Question](http://flipgrid.com/#b673dbcb)
+* [Radio Promotion Question](http://flipgrid.com/#dda4c828)
+* [Outdoor Promotion Question](http://flipgrid.com/#f838eb58)
+* [Online Advertising Question](http://flipgrid.com/#fd5c3342)
