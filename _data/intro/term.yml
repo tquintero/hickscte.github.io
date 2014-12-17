@@ -432,6 +432,14 @@
     - name: Career Summary
       url: http://b.socrative.com/login/student/
       description:
+    - name: Discussion Video
+      url: https://www.dropbox.com/s/qhho9uxnxzsgezf/cte%20intro%20presentations%20video.mp4?dl=0
+      description:
+      tags:
+        - video
+    - name: Presentation Outline Form
+      url: https://docs.google.com/a/alpinedistrict.org/document/d/1ssBUBt_PpoFSEpvwIXCctDVi6Jf2SogzGc7_iH0o7oc/edit#heading=h.iwa3xmvkfhah
+      description:
     - name: 'Flipgrid: What makes a great presentation?'
       url: http://flipgrid.com/#fe60cc42
       description:
