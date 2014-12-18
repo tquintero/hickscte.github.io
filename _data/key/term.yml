@@ -1,457 +1,457 @@
-# - class: 1
-#   topic:	Homerow
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Disclosure
-#       url: http://google.com
-#       kind: link
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c1.mp4
-#       kind: circuit
-#     - name: Pre-test
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Disclosure
-#     - name: Circuit
-#     - name: Pre-test
-#     - name: Disclosure
-#   other:
+- class: 1
+  topic:	Homerow
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Disclosure
+      url: http://google.com
+      kind: link
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c1.mp4
+      kind: circuit
+    - name: Pre-test
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Disclosure
+    - name: Circuit
+    - name: Pre-test
+    - name: Disclosure
+  other:
 
-# - class: 2
-#   topic:	Homerow
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c2.mp4
-#       kind: circuit
-#     - name: Email Etiquette
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#   other:
+- class: 2
+  topic:	Homerow
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c2.mp4
+      kind: circuit
+    - name: Email Etiquette
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+  other:
 
-# - class: 3
-#   topic:	H, E
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c3.mp4
-#       kind: circuit
-#     - name: "Financial Literacy: An Essential Tool for Teens"
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 3
+  topic:	H, E
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c3.mp4
+      kind: circuit
+    - name: "Financial Literacy: An Essential Tool for Teens"
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 4
-#   topic:	I, R
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c4.mp4
-#       kind: circuit
-#     - name: What's SUP? Paddleboarding Increasing in Popularity
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 4
+  topic:	I, R
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c4.mp4
+      kind: circuit
+    - name: What's SUP? Paddleboarding Increasing in Popularity
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 5
-#   topic:	I, R
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c5.mp4
-#       kind: circuit
-#     - name: "Cell Phones: Then and Now"
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 5
+  topic:	I, R
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c5.mp4
+      kind: circuit
+    - name: "Cell Phones: Then and Now"
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 6
-#   topic:	T, O
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c6.mp4
-#       kind: circuit
-#     - name: Healthy Choices Join the Cafeteria Line
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 6
+  topic:	T, O
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c6.mp4
+      kind: circuit
+    - name: Healthy Choices Join the Cafeteria Line
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 7
-#   topic:	N, G
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c7.mp4
-#       kind: circuit
-#     - name: "The iPod: In the Beginning"
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 7
+  topic:	N, G
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c7.mp4
+      kind: circuit
+    - name: "The iPod: In the Beginning"
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 8
-#   topic:	Left Shift, Period
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c8.mp4
-#       kind: circuit
-#     - name: Twilight Mania
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 8
+  topic:	Left Shift, Period
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c8.mp4
+      kind: circuit
+    - name: Twilight Mania
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 9
-#   topic:	Left Shift, Period
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c9.mp4
-#       kind: circuit
-#     - name: The Importance of Reading
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 9
+  topic:	Left Shift, Period
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c9.mp4
+      kind: circuit
+    - name: The Importance of Reading
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 10
-#   topic:	U, C
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c10.mp4
-#       kind: circuit
-#     - name: Expression and the Arts
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 10
+  topic:	U, C
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c10.mp4
+      kind: circuit
+    - name: Expression and the Arts
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 11
-#   topic:	Right Shift, W
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c11.mp4
-#       kind: circuit
-#     - name: Top Baby Names of the Decade
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 11
+  topic:	Right Shift, W
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c11.mp4
+      kind: circuit
+    - name: Top Baby Names of the Decade
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 12
-#   topic:	B, Y
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c12.mp4
-#       kind: circuit
-#     - name: The Obama Daughters
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 12
+  topic:	B, Y
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c12.mp4
+      kind: circuit
+    - name: The Obama Daughters
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 13
-#   topic:	B, Y
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c13.mp4
-#       kind: circuit
-#     - name: Get Your Popcorn
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#   other:
+- class: 13
+  topic:	B, Y
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c13.mp4
+      kind: circuit
+    - name: Get Your Popcorn
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+  other:
 
-# - class: 14
-#   topic:	M, X
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c14.mp4
-#       kind: circuit
-#     - name: Snowboarding is Here to Stay
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 14
+  topic:	M, X
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c14.mp4
+      kind: circuit
+    - name: Snowboarding is Here to Stay
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 15
-#   topic:	P, V
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c15.mp4
-#       kind: circuit
-#     - name: Protect Your Computer
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 15
+  topic:	P, V
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c15.mp4
+      kind: circuit
+    - name: Protect Your Computer
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 16
-#   topic:	Q, Comma
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c16.mp4
-#       kind: circuit
-#     - name: What is DECA?
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 16
+  topic:	Q, Comma
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c16.mp4
+      kind: circuit
+    - name: What is DECA?
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 17
-#   topic:	Q, Comma
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c17.mp4
-#       kind: circuit
-#     - name: What is a BLOG?
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 17
+  topic:	Q, Comma
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c17.mp4
+      kind: circuit
+    - name: What is a BLOG?
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 18
-#   topic:	Z, Colon
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c18.mp4
-#       kind: circuit
-#     - name: Friday Night Lights
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 18
+  topic:	Z, Colon
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c18.mp4
+      kind: circuit
+    - name: Friday Night Lights
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 19
-#   topic:	CAPS, Question Mark
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c19.mp4
-#       kind: circuit
-#     - name: Skateboarding is Born
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 19
+  topic:	CAPS, Question Mark
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c19.mp4
+      kind: circuit
+    - name: Skateboarding is Born
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 20
-#   topic:	Apostrophe, Dash
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c20.mp4
-#       kind: circuit
-#     - name: The Power of Pets
-#       url: http://edutyping.com
-#       kind: tw
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Timed Writing
-#       url: http://edutyping.com
-#     - name: Edutyping Lesson
-#       url: http://edutyping.com
-#   other:
+- class: 20
+  topic:	Apostrophe, Dash
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c20.mp4
+      kind: circuit
+    - name: The Power of Pets
+      url: http://edutyping.com
+      kind: tw
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Timed Writing
+      url: http://edutyping.com
+    - name: Edutyping Lesson
+      url: http://edutyping.com
+  other:
 
-# - class: 21
-#   topic:	Quotation Marks
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#     - 'Students will demonstrate a working knowledge of basic word processing functions and proofreading.'
-#     - 'Students will demonstrate composition skills at the keyboard.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c21.mp4
-#       kind: circuit
-#     - name: Writing Prompt
-#       url:
-#       kind: wp
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Writing Prompt
-#       url: http://dropitto.me/hickscte
-#   other:
+- class: 21
+  topic:	Quotation Marks
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+    - 'Students will demonstrate a working knowledge of basic word processing functions and proofreading.'
+    - 'Students will demonstrate composition skills at the keyboard.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c21.mp4
+      kind: circuit
+    - name: Writing Prompt
+      url:
+      kind: wp
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Writing Prompt
+      url: http://dropitto.me/hickscte
+  other:
 
-# - class: 22
-#   topic:	Quotation Marks
-#   standards:
-#     - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
-#     - 'Students will develop touch keystroking speed and accuracy.'
-#     - 'Students will demonstrate a working knowledge of basic word processing functions and proofreading.'
-#     - 'Students will demonstrate composition skills at the keyboard.'
-#   resources:
-#     - name: Circuit
-#       url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c22.mp4
-#       kind: circuit
-#     - name: Writing Prompt
-#       url:
-#       kind: wp
-#   deliverables:
-#     - name: Circuit
-#       url: http://dropitto.me/hickscte
-#     - name: Writing Prompt
-#       url: http://dropitto.me/hickscte
-#   other:
+- class: 22
+  topic:	Quotation Marks
+  standards:
+    - 'Students will demonstrate eyes on copy, correct fingering, good techniques, and appropriate posture while operating the keyboard.'
+    - 'Students will develop touch keystroking speed and accuracy.'
+    - 'Students will demonstrate a working knowledge of basic word processing functions and proofreading.'
+    - 'Students will demonstrate composition skills at the keyboard.'
+  resources:
+    - name: Circuit
+      url: https://dl.dropboxusercontent.com/u/74616/keyboarding/circuits/c22.mp4
+      kind: circuit
+    - name: Writing Prompt
+      url:
+      kind: wp
+  deliverables:
+    - name: Circuit
+      url: http://dropitto.me/hickscte
+    - name: Writing Prompt
+      url: http://dropitto.me/hickscte
+  other:
 
 - class: 23
   topic:	Review
