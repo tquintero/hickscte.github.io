@@ -464,8 +464,8 @@
     - name: 'Google Doc: Presentation outline.'
       url:
       description:
-    - name: 'Google Drive: Video of presentation practice'
-      url:
+    - name: 'Flipgrid: Practice Your Presentation'
+      url: http://flipgrid.com/#f613bbe3
       description:
   blackDiamonds:
     - name: 'Film your presentation with the intention of replacing the teacher presentation for your assigned topic'
